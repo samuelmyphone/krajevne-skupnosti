@@ -115,7 +115,7 @@ async function badges(){
       if(o.zacetek&&new Date(o.konec||o.zacetek)>=new Date(t0)&&o.vrsta!=='obvestilo'){ if(!a.ev||new Date(o.zacetek)<new Date(a.ev.zacetek))a.ev=o; }
       else if(new Date(o.created_at)>=new Date(d14))a.nov++; } }
   for(const p of (pr.data||[])) g(p.consiglio_id).pr++;
-  const EV={sestanek:['Seja','Riunione'],skupscina:['Zbor krajanov','Assemblea'],dogodek:['Dogodek','Evento'],dela:['Dela','Lavori']};
+  const EV={sestanek:['Seja','Riunione'],zupan:['Sestanek z županom','Riunione col Sindaco'],skupscina:['Zbor krajanov','Assemblea'],dogodek:['Dogodek','Evento'],dela:['Dela','Lavori']};
   const pl=(n,one,two,few,many)=>n===1?one:n===2?two:(n%100>=3&&n%100<=4)?few:many;
   for(const e of els){const a=A[e.dataset.act]; if(!a)continue; const parts=[];
     if(a.ev){const d=new Date(a.ev.zacetek),v=EV[a.ev.vrsta]||EV.dogodek; parts.push(T(`${v[0]} ${d.getDate()}. ${d.getMonth()+1}.`,`${v[1]} ${pr2(d.getDate())}/${pr2(d.getMonth()+1)}`));}

@@ -141,6 +141,7 @@ begin
     select decrypted_secret into snd from vault.decrypted_secrets where name = 'brevo_sender'  limit 1;
     if k is null or snd is null then return new; end if;
 
+    if (select count(*) from prijave where created_at > now() - interval '1 hour') > 20 then return new; end if;
     select ime_sl || ' / ' || ime_it into svet from consigli where id = new.consiglio_id;
     select jsonb_agg(jsonb_build_object('email', coalesce(obvestila_email, email))) into prejemniki
       from admini where consiglio_id = new.consiglio_id and obvestila;
@@ -186,3 +187,20 @@ create trigger bp_obvesti after insert on public.bp_predlogi for each row execut
 alter table public.objave drop constraint if exists objave_vrsta_check;
 alter table public.objave add constraint objave_vrsta_check
   check (vrsta in ('obvestilo','sestanek','zupan','skupscina','dogodek','dela'));
+
+-- 2026-10-26: protezione da inserimenti massivi (flood) su prijave e bp_predlogi
+create or replace function public.omeji_vnose() returns trigger
+language plpgsql security definer set search_path = public as $$
+declare n int;
+begin
+  execute format('select count(*) from public.%I where created_at > now() - interval ''10 minutes''', tg_table_name) into n;
+  if n >= 30 then
+    raise exception 'Preveč vnosov v kratkem času. Poskusite pozneje. / Troppi invii in poco tempo. Riprovate più tardi.';
+  end if;
+  return new;
+end $$;
+drop trigger if exists prijave_omeji on public.prijave;
+create trigger prijave_omeji before insert on public.prijave for each row execute function public.omeji_vnose();
+drop trigger if exists bp_omeji on public.bp_predlogi;
+create trigger bp_omeji before insert on public.bp_predlogi for each row execute function public.omeji_vnose();
+-- le email agli amministratori si fermano oltre 20 inserimenti/ora (il sito continua a funzionare)

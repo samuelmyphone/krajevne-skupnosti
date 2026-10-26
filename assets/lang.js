@@ -12,6 +12,8 @@ let cur=(new URLSearchParams(location.search).get('lang')||'').toLowerCase();
 if(cur!=='sl'&&cur!=='it'){try{cur=localStorage.getItem(KEY)||'';}catch(_){cur='';}}
 if(cur!=='sl'&&cur!=='it')cur='sl';
 D.setAttribute('data-ui',cur);D.lang=cur;
+const setTitle=l=>{const t=document.querySelector('title');if(t&&t.dataset[l])document.title=t.dataset[l];};
+document.addEventListener('DOMContentLoaded',()=>setTitle(cur));
 D.classList.add('js');const DARK=['noc','krasnoc'],SKINS=['kras','morje','teran','noc','krasnoc'];let skin='morje';try{skin=localStorage.getItem('ks-skin')||'morje';}catch(_){}if(!SKINS.includes(skin))skin='morje';
 D.setAttribute('data-skin',skin);if(DARK.includes(skin))D.setAttribute('data-dark','');
 const SKIP='script,style,textarea,input,select,.leaflet-container,.nol,svg,code';
@@ -88,7 +90,7 @@ function swap(root){
 }
 let busy=false;
 function apply(root){if(busy)return;busy=true;try{root=root||document.body;blocks(root);inline(root);textOnly(root);values(root);swap(root);}finally{busy=false;}}
-function set(l){cur=l;D.setAttribute('data-ui',l);D.lang=l;try{localStorage.setItem(KEY,l);}catch(_){}swap(document);
+function set(l){cur=l;D.setAttribute('data-ui',l);D.lang=l;setTitle(l);try{localStorage.setItem(KEY,l);}catch(_){}swap(document);
   document.querySelectorAll('[data-setlang]').forEach(b=>b.setAttribute('aria-pressed',b.dataset.setlang===l));
   dispatchEvent(new CustomEvent('ks-lang',{detail:l}));}
 window.KSLANG={apply,set,get:()=>cur,t:(sl,it)=>`<span data-l="sl" lang="sl">${sl}</span><span data-l="it" lang="it">${it}</span>`};

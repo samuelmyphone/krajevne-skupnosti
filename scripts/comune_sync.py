@@ -151,11 +151,15 @@ OPPORTUNITA = re.compile(r'CONTRIBUT|BANDO|RIDUZION|AGEVOLAZION|BENEFIC|ISCRIZIO
 
 
 def split_lingue(t):
-    """Titolo IT e SL sulla stessa riga: separa dove inizia la parte slovena."""
-    pezzi = re.split(r'(?<=[."»])\s+(?=[a-zčšžA-ZČŠŽ])', t)
-    for k in range(1, len(pezzi)):
-        a, b = ' '.join(pezzi[:k]), ' '.join(pezzi[k:])
-        if lang_of(b) == 'sl' and lang_of(a) == 'it' and re.search(r'[čšž]|\b(za|na|in|med|pri)\b', b, re.I):
+    """Titolo IT e SL sulla stessa riga: separa dove inizia la parte slovena.
+    Candidati: confini di frase (". " seguito da maiuscola) che non seguono un'abbreviazione."""
+    ABBR = re.compile(r'(?:\b(?:n|art|artt|c|cc|co|d|p|reg|lgs|dpr|l|lr|prot|civ|loc|fraz|s|ss|dott|ing|geom|arch|avv|sig|str|km|h|št|k|o)\.)$', re.I)
+    pos = [m.end() for m in re.finditer(r'[.!?»"\)]\s+(?=[A-ZČŠŽ])', t)]
+    for k in pos:
+        a, b = t[:k].rstrip(), t[k:].strip()
+        if ABBR.search(a) or len(a) < 15 or len(b) < 15:
+            continue
+        if lang_of(b) == 'sl' and lang_of(a) == 'it' and re.search(r'[čšž]|\b(za|na|in|med|pri|ki|je)\b', b, re.I) and not re.search(r'\b(per|della|del|di|con|dal|ai|degli|delle)\b', b, re.I):
             return [a, b]
     return [t]
 
@@ -230,7 +234,7 @@ def albo():
 
 # --- notizie (RSS) -------------------------------------------------------------------------
 SL_WORDS = re.compile(r'\b(za|in|na|o|v|ki|ali|občin\w*|leto|razpis|obvestilo|dejavnosti|srečanje)\b', re.I)
-IT_WORDS = re.compile(r'\b(di|per|il|la|del|della|e|nel|alla|avviso|bando|anno)\b', re.I)
+IT_WORDS = re.compile(r'\b(di|per|il|la|del|della|e|nel|alla|avviso|bando|anno|con|come|dal|ai|degli|delle|dei|sensi)\b', re.I)
 RSS_ESCLUDI = re.compile(r'staff del Sindaco|sodelavca v kabinetu|avvocati|odvetnik|tesoreria', re.I)
 EVENTO = re.compile(r'concert|festival|serata|mostra|presentazion|spettacol|notti del vino|sagra|incontro|koncert|večer|razstav|'
                     r'predstavitev|prireditev|srečanje|laboratori|delavnic|evento|dogod', re.I)
