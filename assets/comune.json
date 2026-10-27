@@ -2,17 +2,17 @@
  "stato": {
   "albo": {
    "ok": true,
-   "aggiornato": "2026-10-26",
-   "voci": 15
+   "aggiornato": "2026-10-27",
+   "voci": 13
   },
   "rss": {
    "ok": true,
-   "aggiornato": "2026-10-26",
+   "aggiornato": "2026-10-27",
    "voci": 20
   },
   "meteo": {
    "ok": true,
-   "aggiornato": "2026-10-26",
+   "aggiornato": "2026-10-27",
    "voci": 0
   }
  },
@@ -243,38 +243,6 @@
     "m_it": "Lavori di abbattimento e ricostruzione di un muro di sostegno stradale",
     "m_sl": "Zaradi rušenja in obnove cestnega podpornega zidu"
    }
-  },
-  {
-   "id": "albo-10032058",
-   "src": "albo",
-   "cat": "lavori",
-   "tipo_sl": "Sklep odbora",
-   "tipo_it": "Delibera di Giunta",
-   "tipologia": "Deliberazioni giuntali",
-   "num": "110/2026",
-   "it": "Lavori di manutenzione straordinaria ed adeguamento funzionale del campo di calcio in erba sintetica presso l’impianto sportivo del centro sportivo comunale silvano klabjan. Cup: c72h25000970006. Approvazione del progetto esecutivo.",
-   "sl": "Izredna vzdrževalna dela in funkcionalna preureditev nogometnega igrišča z umetno travnato podlago v športnem kompleksu občinskega športnega centra silvana klabjana. Cup: c72h25000970006. Sprejem izvedbenega projekta.",
-   "date": "2026-10-12",
-   "until": "2026-10-26",
-   "svet": [],
-   "url": "https://www.comune.san-dorligo-della-valle.ts.it/it/albo-pretorio-3612",
-   "fase": "progetto"
-  },
-  {
-   "id": "albo-10032056",
-   "src": "albo",
-   "cat": "lavori",
-   "tipo_sl": "Sklep odbora",
-   "tipo_it": "Delibera di Giunta",
-   "tipologia": "Deliberazioni giuntali",
-   "num": "111/2026",
-   "it": "Nuovi allacciamenti idrici nel territorio comunale a servizio di fontanelle pubbliche sia storiche e riattivate che di nuova costruzione – indirizzi della giunta comunale agli uffici.",
-   "sl": "Novi vodovodni priključki na ozemlju občine za oskrbo tako zgodovinskih in ponovno aktiviranih kot novih javnih pitnikov – smernice občinskega odbora uradom.",
-   "date": "2026-10-12",
-   "until": "2026-10-26",
-   "svet": [],
-   "url": "https://www.comune.san-dorligo-della-valle.ts.it/it/albo-pretorio-3612",
-   "fase": "progetto"
   },
   {
    "id": "albo-10013642",
