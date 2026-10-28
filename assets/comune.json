@@ -3,7 +3,7 @@
   "albo": {
    "ok": true,
    "aggiornato": "2026-10-28",
-   "voci": 13
+   "voci": 14
   },
   "rss": {
    "ok": true,
@@ -18,6 +18,23 @@
  },
  "meteo": [],
  "albo": [
+  {
+   "id": "albo-10064390",
+   "src": "albo",
+   "cat": "prilike",
+   "tipo_sl": "Županova odredba",
+   "tipo_it": "Ordinanza sindacale",
+   "tipologia": "Ordinanze sindacali",
+   "num": "11930/2026",
+   "it": "Ordinanzasindacale ai sensi dell’art. 192, comma 3, del D.Lgs. 3 aprile 2006, n. 152 ess.mm.ii., per la rimozione e il corretto conferimento di rifiuti abbandonati eper il ripristino dello stato dei luoghi – area sita in San Dorligo dellaValle-Dolina, località [OMISSIS...] – particella catastale n. [OMISSIS...] delc.c. di [OMISSIS...]",
+   "sl": "Županovaodredba v skladu s tretjim odstavkom 192. člena ZU št. 152 z dne 3. 4. 2006 zn. s. d. za odstranitev in ustrezno oddajo nezakonito odloženih odpadkov ter vzpostavitevprejšnjega stanja na območju v občini Dolina, v kraju […]– katastrska parcelašt. […] katastrske občine […]",
+   "date": "2026-10-28",
+   "until": "2026-11-27",
+   "svet": [
+    "a"
+   ],
+   "url": "https://www.comune.san-dorligo-della-valle.ts.it/it/albo-pretorio-3612"
+  },
   {
    "id": "albo-10053040",
    "src": "albo",
@@ -283,6 +300,17 @@
    "url": "https://www.comune.san-dorligo-della-valle.ts.it/it/novita-85680/avvisi-85683/piano-comunale-di-classificazione-acustica-pcca-del-comune-di-san-dorligo-della-valledolina-175234"
   },
   {
+   "id": "rss-175472",
+   "src": "rss",
+   "cat": "avvisi",
+   "it": "AVVISO PUBBLICO FINALIZZATO ALL’ACCERTAMENTO DELL’ESISTENZA O MENO DI INTERESSE TRANSFRONTALIERO CERTO/JAVNO OBVESTILO O UGOTAVLJANJU OBSTOJA ALI NEOBSTOJA JASNEGA ČEZMEJNEGA INTERESA",
+   "sl": "AVVISO PUBBLICO FINALIZZATO ALL’ACCERTAMENTO DELL’ESISTENZA O MENO DI INTERESSE TRANSFRONTALIERO CERTO/JAVNO OBVESTILO O UGOTAVLJANJU OBSTOJA ALI NEOBSTOJA JASNEGA ČEZMEJNEGA INTERESA",
+   "date": "2026-10-28",
+   "until": "",
+   "svet": [],
+   "url": "https://www.comune.san-dorligo-della-valle.ts.it/it/amministrazione-trasparente-3527/bandi-di-gara-e-contratti-3568/avviso-pubblico-finalizzato-allaccertamento-dellesistenza-o-meno-di-interesse-transfrontaliero-certojavno-obvestilo-o-ugotavljanju-obstoja-ali-neobstoja-jasnega-cezmejnega-interesa-175472"
+  },
+  {
    "id": "rss-175092",
    "src": "rss",
    "cat": "prilike",
@@ -491,17 +519,6 @@
    "until": "",
    "svet": [],
    "url": "https://www.comune.san-dorligo-della-valle.ts.it/it/novita-85680/notizie-85681/apertura-iscrizioni-ai-servizi-scolastici-mensa-e-trasporto-as-20262027-168395"
-  },
-  {
-   "id": "rss-168294",
-   "src": "rss",
-   "cat": "avvisi",
-   "it": "Nuovo accordo territoriale per contratti di locazione a canone concordato",
-   "sl": "Novi območni sporazum za pogodbe o najemu z usklajeno najemnino",
-   "date": "2026-05-19",
-   "until": "",
-   "svet": [],
-   "url": "https://www.comune.san-dorligo-della-valle.ts.it/it/novita-85680/notizie-85681/nuovo-accordo-territoriale-per-contratti-di-locazione-a-canone-concordato-168294"
   }
  ]
 }
