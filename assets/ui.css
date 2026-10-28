@@ -692,3 +692,5 @@ html[data-dark] .cm-filt button[aria-selected="true"]{color:#0b0f13}
 .bp-akt small{display:block;color:var(--muted);margin-top:2px}
 /* indirizzi email lunghi: a capo sui telefoni stretti */
 .panel a[href^="mailto:"],.foot-ks a[href^="mailto:"],.fe{overflow-wrap:anywhere;word-break:break-word}
+.fin{color:var(--ok);font-weight:800}
+.note.fin-wait{color:var(--muted);font-size:13.5px;margin:8px 0 0}

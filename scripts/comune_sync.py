@@ -339,6 +339,68 @@ def meteo():
     return out
 
 
+# --- archivio degli atti rilevanti (spariscono dall'albo dopo 15 giorni) ----------------------
+ARHIV = os.path.join(os.path.dirname(__file__), '..', 'arhiv', 'akti')
+ARHIV_CAT = {'bp', 'lavori', 'viabilita'}
+ALBO_FILE = 'https://backoffice2-comuni.regione.fvg.it/albopretorio/file/download/'
+
+
+def slug(s, n=60):
+    s = unicodedata.normalize('NFKD', s).encode('ascii', 'ignore').decode().lower()
+    s = re.sub(r'[^a-z0-9]+', '-', s).strip('-')
+    return s[:n].rstrip('-')
+
+
+def arhiviraj(atti):
+    """Salva PDF (bilancio partecipativo) o testo (lavori, viabilità) degli atti nuovi. Mai bloccante."""
+    import subprocess
+    idx_p = os.path.join(ARHIV, 'index.json')
+    try:
+        idx = json.load(open(idx_p, encoding='utf-8'))
+    except Exception:
+        idx = {}
+    for a in atti:
+        if a['cat'] not in ARHIV_CAT:
+            continue
+        aid = a['id'].replace('albo-', '')
+        if aid in idx:
+            a.update({k: idx[aid][k] for k in ('pdf', 'txt') if k in idx[aid]})
+            continue
+        try:
+            body = json.dumps({'atto': {'id': aid, 'tipoAtto': 'ALBO'}, 'file': {'id': 'main'}, 'storicoAtti': False}).encode()
+            pdf = fetch(ALBO_FILE, body, timeout=120)
+            if not pdf.startswith(b'%PDF'):
+                raise ValueError('non PDF')
+            year = a['date'][:4]
+            d = os.path.join(ARHIV, year); os.makedirs(d, exist_ok=True)
+            base = f"{a['date']}_{slug(a['tipo_it'])}_{slug(a['num'].replace('/', '-'), 12)}_{slug(a['it'], 50)}"
+            rec = {'date': a['date'], 'tipo': a['tipo_it'], 'num': a['num'], 'it': a['it'], 'sl': a.get('sl', ''), 'cat': a['cat'], 'svet': a.get('svet', [])}
+            pdf_path = os.path.join(d, base + '.pdf')
+            open(pdf_path, 'wb').write(pdf)
+            try:
+                tp = os.path.join(d, base + '.txt')
+                subprocess.run(['pdftotext', '-layout', pdf_path, tp], check=True, timeout=120)
+                t = open(tp, encoding='utf-8', errors='replace').read()
+                # persone fisiche: mai nei testi archiviati
+                t = re.sub(r'\b[A-Z]{6}\d{2}[A-Z]\d{2}[A-Z]\d{3}[A-Z]\b', '[omissis]', t)
+                t = re.sub(r"\b(sig\.?(?:ra|\.ra)?|signor[ae]?|g\.|ga\.|gospa|gospod)\s+[A-ZČŠŽ][\w'’-]+(\s+[A-ZČŠŽ][\w'’-]+)?", r'\1 [omissis]', t)
+                t = re.sub(r'\b(nat[oa] (?:a|il)|residente (?:a|in))\b[^,;\n]{0,60}', r'\1 [omissis]', t, flags=re.I)
+                open(tp, 'w', encoding='utf-8').write(t)
+                rec['txt'] = f'arhiv/akti/{year}/{base}.txt'
+            except Exception:
+                pass
+            if a['cat'] == 'bp':
+                rec['pdf'] = f'arhiv/akti/{year}/{base}.pdf'
+            else:
+                os.remove(pdf_path)  # per lavori e viabilità basta il testo
+            idx[aid] = rec
+            a.update({k: rec[k] for k in ('pdf', 'txt') if k in rec})
+        except Exception as e:
+            print(f'arhiv {aid}: {e}', file=sys.stderr)
+    os.makedirs(ARHIV, exist_ok=True)
+    json.dump(idx, open(idx_p, 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
+
+
 def main():
     try:
         prev = json.load(open(OUT, encoding='utf-8'))
@@ -355,6 +417,10 @@ def main():
             errori.append(f'{nome}: {e}')
     # atti scaduti: fuori
     res['albo'] = [x for x in res['albo'] if not x['until'] or x['until'] >= TODAY.isoformat()]
+    try:
+        arhiviraj(res['albo'])
+    except Exception as e:
+        print(f'arhiv: {e}', file=sys.stderr)
     if not stato['meteo']['ok']:
         res['meteo'] = []  # mai mostrare un'allerta vecchia
     data = {'stato': stato, 'meteo': res['meteo'], 'albo': res['albo'], 'rss': res['rss']}

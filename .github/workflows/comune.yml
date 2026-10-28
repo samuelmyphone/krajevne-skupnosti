@@ -24,16 +24,19 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
+      - name: Strumenti per leggere i PDF
+        run: sudo apt-get install -y -qq poppler-utils >/dev/null
       - name: Leggi notizie e albo del Comune
         id: sync
         continue-on-error: true
         run: python3 scripts/comune_sync.py
       - name: Pubblica se ci sono novità
         run: |
-          if ! git diff --quiet -- assets/comune.json; then
+          git add -A arhiv
+          if ! git diff --quiet -- assets/comune.json || ! git diff --cached --quiet -- arhiv; then
             git config user.name "cfks-dolina bot"
             git config user.email "obvestila@cfks-dolina.org"
-            git add assets/comune.json
+            git add assets/comune.json arhiv
             git commit -m "Iz občine: posodobitev / Dal Comune: aggiornamento"
             git pull --rebase -q origin main
             git push -q origin main

@@ -38,13 +38,14 @@ function card(x,opt={}){
    ${sx?`<p class="cm-full">${T(esc(sl),esc(it))}</p>`:''}
    <dl><dt>${T('Akt','Atto')}</dt><dd>${T(esc(x.tipo_sl),esc(x.tipo_it))} ${esc(x.num)} · ${T('vrsta na oglasni deski','tipologia all’albo')}: ${esc(x.tipologia||x.tipo_it)}</dd>
    <dt>${T('Na oglasni deski','All’albo pretorio')}</dt><dd>${T('od','dal')} ${fmt(x.date)} ${T('do','al')} ${fmt(x.until)} <small>(${T('obdobje objave, ne trajanje ukrepa','periodo di pubblicazione, non durata del provvedimento')})</small></dd></dl>
-   <p class="cm-how">${T('Akt poiščete na oglasni deski Občine po vrsti in številki.','Cercate l’atto nell’albo del Comune per tipologia e numero.')}
+   <p class="cm-how">${T('Dokler je objavljen, akt poiščete na oglasni deski Občine po vrsti in številki; kopija besedila ostane tu tudi pozneje.','Finché è pubblicato, cercate l’atto nell’albo del Comune per tipologia e numero; una copia del testo resta qui anche dopo.')}
    <button type="button" class="cm-copy" data-ref="${esc(ref)}">${T('Kopiraj oznako','Copia riferimento')}</button></p></details>`:'';
   const link=x.src==='albo'?T('Oglasna deska Občine','Albo pretorio del Comune'):T('Odpri novico','Apri la notizia');
+  const arh=(x.pdf?` · <a href="${BASE}${esc(x.pdf)}" target="_blank" rel="noopener">${T('Akt (PDF)','Atto (PDF)')}</a>`:'')+(x.txt&&!x.pdf?` · <a href="${BASE}${esc(x.txt)}" target="_blank" rel="noopener">${T('Besedilo akta','Testo dell’atto')}</a>`:'');
   return `<article class="cm-item cm-${x.cat}" id="${id}">
  <div class="cm-top"><span class="cm-chip">${T(c[0],c[1])}</span>${fase}${opt.showVas===false?'':`<span class="cm-vas">${vasLabel(x.svet)}</span>`}<time datetime="${x.date}" title="${x.src==='albo'?'Objava / Pubblicazione':''}">${fmt(x.date)}</time></div>
  <p class="cm-t">${head}</p>${why}
- <p class="cm-meta">${doc} · <a href="${esc(x.url)}" target="_blank" rel="noopener">${link} ↗</a></p>${det}
+ <p class="cm-meta">${doc} · <a href="${esc(x.url)}" target="_blank" rel="noopener">${link} ↗</a>${arh}</p>${det}
 </article>`;
 }
 document.addEventListener('click',e=>{const b=e.target.closest('.cm-copy');if(!b)return;const r=b.dataset.ref;

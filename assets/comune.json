@@ -54,7 +54,8 @@
     "h_sl": "Draga, pri h. št. 18: omejitev prometa",
     "m_it": "Posa in opera di una nuova linea elettrica",
     "m_sl": "Zaradi namestitve novega električnega voda"
-   }
+   },
+   "txt": "arhiv/akti/2026/2026-10-23_ordinanza_78-2026_ordinanza-temporanea-in-linea-di-viabilita-limitaz.txt"
   },
   {
    "id": "albo-10055485",
@@ -77,7 +78,8 @@
     "h_sl": "Dolina, med h. št. 187 in 361: pešpot in omejitev prometa",
     "m_it": "",
     "m_sl": ""
-   }
+   },
+   "txt": "arhiv/akti/2026/2026-10-22_ordinanza_77-2026_limitazione-della-circolazione-veicolare-in-loc-do.txt"
   },
   {
    "id": "albo-10054419",
@@ -141,7 +143,9 @@
    ],
    "url": "https://www.comune.san-dorligo-della-valle.ts.it/it/albo-pretorio-3612",
    "fase": "progetto",
-   "bp_n": 22
+   "bp_n": 22,
+   "pdf": "arhiv/akti/2026/2026-10-19_delibera-di-giunta_112-2026_indirizzi-per-la-realizzazione-del-progetto-di-bil.pdf",
+   "txt": "arhiv/akti/2026/2026-10-19_delibera-di-giunta_112-2026_indirizzi-per-la-realizzazione-del-progetto-di-bil.txt"
   },
   {
    "id": "albo-10043613",
@@ -157,7 +161,8 @@
    "until": "2026-10-30",
    "svet": [],
    "url": "https://www.comune.san-dorligo-della-valle.ts.it/it/albo-pretorio-3612",
-   "fase": "affidamento"
+   "fase": "affidamento",
+   "txt": "arhiv/akti/2026/2026-10-15_determinazione_827-2026_lavori-di-manutenzione-ordinaria-dei-corsi-dacqua.txt"
   },
   {
    "id": "albo-10043455",
@@ -173,7 +178,9 @@
    "until": "2026-10-30",
    "svet": [],
    "url": "https://www.comune.san-dorligo-della-valle.ts.it/it/albo-pretorio-3612",
-   "fase": "affidamento"
+   "fase": "affidamento",
+   "pdf": "arhiv/akti/2026/2026-10-15_determinazione_820-2026_processo-del-bilancio-partecipativo-fornitura-e-in.pdf",
+   "txt": "arhiv/akti/2026/2026-10-15_determinazione_820-2026_processo-del-bilancio-partecipativo-fornitura-e-in.txt"
   },
   {
    "id": "albo-10042850",
@@ -196,7 +203,8 @@
     "h_sl": "Boršt: omejitev prometa",
     "m_it": "Lavori di asfaltatura",
     "m_sl": "Zaradi asfaltiranja cestišča"
-   }
+   },
+   "txt": "arhiv/akti/2026/2026-10-14_ordinanza_76-2026_ordinanza-temporanea-in-linea-di-viabilita-limitaz.txt"
   },
   {
    "id": "albo-10042745",
@@ -219,7 +227,8 @@
     "h_sl": "Dolina: omejitev prometa",
     "m_it": "Lavori di consolidamento e mitigazione del dissesto idrogeologico in prossimità del ponte sul torrente Dolina",
     "m_sl": "Da se omogočijo dela za utrditev in zmanjšanje hidrogeološke nestabilnosti v bližini mostu čez potok Dolina"
-   }
+   },
+   "txt": "arhiv/akti/2026/2026-10-14_ordinanza_75-2026_ordinanza-temporanea-in-linea-di-viabilita-limitaz.txt"
   },
   {
    "id": "albo-10042531",
@@ -242,7 +251,8 @@
     "h_sl": "Draga, pri h. št. 22: omejitev prometa",
     "m_it": "Lavori di abbattimento e ricostruzione di un muro di sostegno stradale",
     "m_sl": "Zaradi rušenja in obnove cestnega podpornega zidu"
-   }
+   },
+   "txt": "arhiv/akti/2026/2026-10-14_ordinanza_74-2026_ordinanza-temporanea-in-linea-di-viabilita-limitaz.txt"
   },
   {
    "id": "albo-10013642",
