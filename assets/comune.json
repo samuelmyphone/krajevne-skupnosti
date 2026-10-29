@@ -2,17 +2,17 @@
  "stato": {
   "albo": {
    "ok": true,
-   "aggiornato": "2026-10-28",
-   "voci": 14
+   "aggiornato": "2026-10-29",
+   "voci": 11
   },
   "rss": {
    "ok": true,
-   "aggiornato": "2026-10-28",
+   "aggiornato": "2026-10-29",
    "voci": 20
   },
   "meteo": {
    "ok": true,
-   "aggiornato": "2026-10-28",
+   "aggiornato": "2026-10-29",
    "voci": 0
   }
  },
@@ -198,78 +198,6 @@
    "fase": "affidamento",
    "pdf": "arhiv/akti/2026/2026-10-15_determinazione_820-2026_processo-del-bilancio-partecipativo-fornitura-e-in.pdf",
    "txt": "arhiv/akti/2026/2026-10-15_determinazione_820-2026_processo-del-bilancio-partecipativo-fornitura-e-in.txt"
-  },
-  {
-   "id": "albo-10042850",
-   "src": "albo",
-   "cat": "viabilita",
-   "tipo_sl": "Odredba",
-   "tipo_it": "Ordinanza",
-   "tipologia": "Ordinanze dirigenziali",
-   "num": "76/2026",
-   "it": "Ordinanza temporanea in linea di viabilita’ - limitazione della circolazione veicolare su strade comunali nel centro abitato di Sant’Antonio in Bosco - Boršt per consentire lavori di asfaltatura.",
-   "sl": "Začasna prometna ureditev - omejitev prometa na občinskih cestah v Borštu zaradi asfaltiranja cestišča.",
-   "date": "2026-10-14",
-   "until": "2026-10-28",
-   "svet": [
-    "c"
-   ],
-   "url": "https://www.comune.san-dorligo-della-valle.ts.it/it/albo-pretorio-3612",
-   "sint": {
-    "h_it": "Sant'Antonio in Bosco: limitazioni alla circolazione",
-    "h_sl": "Boršt: omejitev prometa",
-    "m_it": "Lavori di asfaltatura",
-    "m_sl": "Zaradi asfaltiranja cestišča"
-   },
-   "txt": "arhiv/akti/2026/2026-10-14_ordinanza_76-2026_ordinanza-temporanea-in-linea-di-viabilita-limitaz.txt"
-  },
-  {
-   "id": "albo-10042745",
-   "src": "albo",
-   "cat": "viabilita",
-   "tipo_sl": "Odredba",
-   "tipo_it": "Ordinanza",
-   "tipologia": "Ordinanze dirigenziali",
-   "num": "75/2026",
-   "it": "Ordinanza temporanea in linea di viabilita’ – limitazione della circolazione veicolare e pedonale su strada comunale nel centro abitato di Dolina per consentire i lavori di consolidamento e mitigazione del dissesto idrogeologico in prossimità del ponte sul torrente Dolina",
-   "sl": "Začasna prometna ureditev - omejitev prometa vozil in pešcev na občinski cesti v Dolini, da se omogočijo dela za utrditev in zmanjšanje hidrogeološke nestabilnosti v bližini mostu čez potok Dolina",
-   "date": "2026-10-14",
-   "until": "2026-10-28",
-   "svet": [
-    "a"
-   ],
-   "url": "https://www.comune.san-dorligo-della-valle.ts.it/it/albo-pretorio-3612",
-   "sint": {
-    "h_it": "Dolina: limitazioni alla circolazione",
-    "h_sl": "Dolina: omejitev prometa",
-    "m_it": "Lavori di consolidamento e mitigazione del dissesto idrogeologico in prossimità del ponte sul torrente Dolina",
-    "m_sl": "Da se omogočijo dela za utrditev in zmanjšanje hidrogeološke nestabilnosti v bližini mostu čez potok Dolina"
-   },
-   "txt": "arhiv/akti/2026/2026-10-14_ordinanza_75-2026_ordinanza-temporanea-in-linea-di-viabilita-limitaz.txt"
-  },
-  {
-   "id": "albo-10042531",
-   "src": "albo",
-   "cat": "viabilita",
-   "tipo_sl": "Odredba",
-   "tipo_it": "Ordinanza",
-   "tipologia": "Ordinanze dirigenziali",
-   "num": "74/2026",
-   "it": "Ordinanza temporanea in linea di viabilita’ - limitazione della circolazione veicolare su strada comunale nel centro abitato di Draga presso il civ. n. 22, per consentire lavori di abbattimento e ricostruzione di un muro di sostegno stradale.",
-   "sl": "Začasna prometna ureditev - omejitev prometa na občinski cesti v Dragi pri h. št. 22 zaradi rušenja in obnove cestnega podpornega zidu.",
-   "date": "2026-10-14",
-   "until": "2026-10-28",
-   "svet": [
-    "c"
-   ],
-   "url": "https://www.comune.san-dorligo-della-valle.ts.it/it/albo-pretorio-3612",
-   "sint": {
-    "h_it": "Draga, presso il civ. 22: limitazioni alla circolazione",
-    "h_sl": "Draga, pri h. št. 22: omejitev prometa",
-    "m_it": "Lavori di abbattimento e ricostruzione di un muro di sostegno stradale",
-    "m_sl": "Zaradi rušenja in obnove cestnega podpornega zidu"
-   },
-   "txt": "arhiv/akti/2026/2026-10-14_ordinanza_74-2026_ordinanza-temporanea-in-linea-di-viabilita-limitaz.txt"
   },
   {
    "id": "albo-10013642",
