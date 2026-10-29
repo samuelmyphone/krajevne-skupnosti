@@ -3,7 +3,7 @@
   "albo": {
    "ok": true,
    "aggiornato": "2026-10-29",
-   "voci": 13
+   "voci": 15
   },
   "rss": {
    "ok": true,
@@ -18,6 +18,39 @@
  },
  "meteo": [],
  "albo": [
+  {
+   "id": "albo-10065406",
+   "src": "albo",
+   "cat": "lavori",
+   "tipo_sl": "Odločba",
+   "tipo_it": "Determinazione",
+   "tipologia": "Determinazioni dirigenziali",
+   "num": "875/2026",
+   "it": "Varie procedure su piattaforma mepa per affidamenti diretti di vari lavori e servizi ai sensi dell’art. 17, comma 2, e dell’art. 50, comma 1, lettera b), del D.Lgs. 36/2023 (“codice dei contratti pubblici”). pagamento diritti all’a.n.a.c. autorita’ nazionale anti corruzione – impegno di spesa.",
+   "sl": "",
+   "date": "2026-10-29",
+   "until": "2026-11-13",
+   "svet": [],
+   "url": "https://www.comune.san-dorligo-della-valle.ts.it/it/albo-pretorio-3612",
+   "txt": "arhiv/akti/2026/2026-10-29_determinazione_875-2026_varie-procedure-su-piattaforma-mepa-per-affidament.txt"
+  },
+  {
+   "id": "albo-10065404",
+   "src": "albo",
+   "cat": "lavori",
+   "tipo_sl": "Odločba",
+   "tipo_it": "Determinazione",
+   "tipologia": "Determinazioni dirigenziali",
+   "num": "874/2026",
+   "it": "Determinazione a contrarre l’impegno di spesa e l’affidamento diretto ai sensi dell’art. 50, c. 1, lett. B), del D.Lgs. n. 36 del 31 marzo 2023 per la fornitura di pali rotondi di pino impregnato per la manutenzione di strade e piazze comunali, alla ditta brezzilegni srl, c.f./.",
+   "sl": "",
+   "date": "2026-10-29",
+   "until": "2026-11-13",
+   "svet": [],
+   "url": "https://www.comune.san-dorligo-della-valle.ts.it/it/albo-pretorio-3612",
+   "fase": "affidamento",
+   "txt": "arhiv/akti/2026/2026-10-29_determinazione_874-2026_determinazione-a-contrarre-limpegno-di-spesa-e-laf.txt"
+  },
   {
    "id": "albo-10065302",
    "src": "albo",
