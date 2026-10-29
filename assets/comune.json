@@ -3,7 +3,7 @@
   "albo": {
    "ok": true,
    "aggiornato": "2026-10-29",
-   "voci": 11
+   "voci": 13
   },
   "rss": {
    "ok": true,
@@ -18,6 +18,38 @@
  },
  "meteo": [],
  "albo": [
+  {
+   "id": "albo-10065302",
+   "src": "albo",
+   "cat": "lavori",
+   "tipo_sl": "Odločba",
+   "tipo_it": "Determinazione",
+   "tipologia": "Determinazioni dirigenziali",
+   "num": "873/2026",
+   "it": "20° anno riserva naturale della Val Rosandra - naravni rezervat doline glinščice decisione a contrarre: affidamento degli interventi di manutenzione ordinaria e sistemazione del sentiero cai n. 1 all’interno della riserva naturale regionale della Val Rosandra – Dolina glinščice all’operatore verdeinquota s.r.l. di trieste.",
+   "sl": "",
+   "date": "2026-10-29",
+   "until": "2026-11-13",
+   "svet": [],
+   "url": "https://www.comune.san-dorligo-della-valle.ts.it/it/albo-pretorio-3612",
+   "fase": "affidamento",
+   "txt": "arhiv/akti/2026/2026-10-29_determinazione_873-2026_20-anno-riserva-naturale-della-val-rosandra-naravn.txt"
+  },
+  {
+   "id": "albo-10065216",
+   "src": "albo",
+   "cat": "avvisi",
+   "tipo_sl": "Odločba",
+   "tipo_it": "Determinazione",
+   "tipologia": "Determinazioni dirigenziali",
+   "num": "863/2026",
+   "it": "Convenzione novennale tra il Comune di San Dorligo della Valle – Občina Dolina e l’associazione di volontariato del terzo settore prostovoljno gasilsko društvo - corpo pompieri volontari breg odv per lo svolgimento del servizio antincendio. Impegno di spesa per l’annualita’ 2026.",
+   "sl": "",
+   "date": "2026-10-29",
+   "until": "2026-11-13",
+   "svet": [],
+   "url": "https://www.comune.san-dorligo-della-valle.ts.it/it/albo-pretorio-3612"
+  },
   {
    "id": "albo-10064390",
    "src": "albo",
