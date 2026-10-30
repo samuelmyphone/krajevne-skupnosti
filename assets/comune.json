@@ -3,7 +3,7 @@
   "albo": {
    "ok": true,
    "aggiornato": "2026-10-30",
-   "voci": 15
+   "voci": 17
   },
   "rss": {
    "ok": true,
@@ -18,6 +18,36 @@
  },
  "meteo": [],
  "albo": [
+  {
+   "id": "albo-10067604",
+   "src": "albo",
+   "cat": "prilike",
+   "tipo_sl": "Odločba",
+   "tipo_it": "Determinazione",
+   "tipologia": "Determinazioni dirigenziali",
+   "num": "882/2026",
+   "it": "TARI 2026 – riduzioni per utenze non domestiche – agriturismi",
+   "sl": "",
+   "date": "2026-10-30",
+   "until": "2026-11-14",
+   "svet": [],
+   "url": "https://www.comune.san-dorligo-della-valle.ts.it/it/albo-pretorio-3612"
+  },
+  {
+   "id": "albo-10067196",
+   "src": "albo",
+   "cat": "avvisi",
+   "tipo_sl": "Županova odredba",
+   "tipo_it": "Ordinanza sindacale",
+   "tipologia": "Ordinanze sindacali",
+   "num": "",
+   "it": "Campagna di macellazione suini a domicilio per uso domestico privato 2026/2027 - akcija za zakol prašičev na domu za zasebno domačo porabo 2026/2027",
+   "sl": "",
+   "date": "2026-10-30",
+   "until": "2027-03-15",
+   "svet": [],
+   "url": "https://www.comune.san-dorligo-della-valle.ts.it/it/albo-pretorio-3612"
+  },
   {
    "id": "albo-10065406",
    "src": "albo",
