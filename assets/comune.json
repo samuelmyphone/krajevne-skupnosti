@@ -2,17 +2,17 @@
  "stato": {
   "albo": {
    "ok": true,
-   "aggiornato": "2026-10-29",
+   "aggiornato": "2026-10-30",
    "voci": 15
   },
   "rss": {
    "ok": true,
-   "aggiornato": "2026-10-29",
+   "aggiornato": "2026-10-30",
    "voci": 20
   },
   "meteo": {
    "ok": true,
-   "aggiornato": "2026-10-29",
+   "aggiornato": "2026-10-30",
    "voci": 0
   }
  },
@@ -326,15 +326,15 @@
    "url": "https://www.comune.san-dorligo-della-valle.ts.it/it/novita-85680/avvisi-85683/la-comunita-come-cura-reti-territoriali-servizi-e-partecipazione-nella-dementia-friendly-community-di-muggia-174950"
   },
   {
-   "id": "rss-174752",
+   "id": "rss-174785",
    "src": "rss",
    "cat": "avvisi",
-   "it": "Avviso di interruzione della fornitura di energia elettrica",
+   "it": "Obvestilo o prekinitvi dobave električne energije",
    "sl": "Obvestilo o prekinitvi dobave električne energije",
    "date": "2026-10-14",
    "until": "",
    "svet": [],
-   "url": "https://www.comune.san-dorligo-della-valle.ts.it/sl/novita-85680/notizie-85681/avviso-di-interruzione-della-fornitura-di-energia-elettrica-174752"
+   "url": "https://www.comune.san-dorligo-della-valle.ts.it/it/novita-85680/avvisi-85683/obvestilo-o-prekinitvi-dobave-elektricne-energije-174785"
   },
   {
    "id": "rss-174389",
