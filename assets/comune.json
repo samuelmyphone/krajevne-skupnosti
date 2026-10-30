@@ -3,7 +3,7 @@
   "albo": {
    "ok": true,
    "aggiornato": "2026-10-30",
-   "voci": 17
+   "voci": 18
   },
   "rss": {
    "ok": true,
@@ -18,6 +18,30 @@
  },
  "meteo": [],
  "albo": [
+  {
+   "id": "albo-10068712",
+   "src": "albo",
+   "cat": "viabilita",
+   "tipo_sl": "Odredba",
+   "tipo_it": "Ordinanza",
+   "tipologia": "Ordinanze dirigenziali",
+   "num": "80/2026",
+   "it": "Ordinanza temporanea in linea di viabilita’ - limitazione della circolazione veicolare su strade comunali nel centro abitato di San Giuseppe della Chiusa – Ricmanje per lavori di riqualificazione del centro storico.",
+   "sl": "Začasna prometna ureditev - omejitev prometa na občinskih cestah v Ricmanjih zaradi prenove vaškega jedra.",
+   "date": "2026-10-30",
+   "until": "2026-11-13",
+   "svet": [
+    "d"
+   ],
+   "url": "https://www.comune.san-dorligo-della-valle.ts.it/it/albo-pretorio-3612",
+   "sint": {
+    "h_it": "San Giuseppe della Chiusa: limitazioni alla circolazione",
+    "h_sl": "Ricmanje: omejitev prometa",
+    "m_it": "Lavori di riqualificazione del centro storico",
+    "m_sl": "Zaradi prenove vaškega jedra"
+   },
+   "txt": "arhiv/akti/2026/2026-10-30_ordinanza_80-2026_ordinanza-temporanea-in-linea-di-viabilita-limitaz.txt"
+  },
   {
    "id": "albo-10067604",
    "src": "albo",
@@ -356,17 +380,6 @@
    "url": "https://www.comune.san-dorligo-della-valle.ts.it/it/novita-85680/avvisi-85683/la-comunita-come-cura-reti-territoriali-servizi-e-partecipazione-nella-dementia-friendly-community-di-muggia-174950"
   },
   {
-   "id": "rss-174785",
-   "src": "rss",
-   "cat": "avvisi",
-   "it": "Obvestilo o prekinitvi dobave električne energije",
-   "sl": "Obvestilo o prekinitvi dobave električne energije",
-   "date": "2026-10-14",
-   "until": "",
-   "svet": [],
-   "url": "https://www.comune.san-dorligo-della-valle.ts.it/it/novita-85680/avvisi-85683/obvestilo-o-prekinitvi-dobave-elektricne-energije-174785"
-  },
-  {
    "id": "rss-174389",
    "src": "rss",
    "cat": "lavori",
@@ -542,6 +555,17 @@
    "until": "",
    "svet": [],
    "url": "https://www.comune.san-dorligo-della-valle.ts.it/it/novita-85680/notizie-85681/apertura-iscrizioni-ai-servizi-scolastici-mensa-e-trasporto-as-20262027-168395"
+  },
+  {
+   "id": "rss-168294",
+   "src": "rss",
+   "cat": "avvisi",
+   "it": "Nuovo accordo territoriale per contratti di locazione a canone concordato",
+   "sl": "Novi območni sporazum za pogodbe o najemu z usklajeno najemnino",
+   "date": "2026-05-19",
+   "until": "",
+   "svet": [],
+   "url": "https://www.comune.san-dorligo-della-valle.ts.it/it/novita-85680/notizie-85681/nuovo-accordo-territoriale-per-contratti-di-locazione-a-canone-concordato-168294"
   }
  ]
 }
