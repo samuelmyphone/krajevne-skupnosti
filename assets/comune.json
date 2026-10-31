@@ -2,21 +2,29 @@
  "stato": {
   "albo": {
    "ok": true,
-   "aggiornato": "2026-10-30",
-   "voci": 18
+   "aggiornato": "2026-10-31",
+   "voci": 16
   },
   "rss": {
    "ok": true,
-   "aggiornato": "2026-10-30",
+   "aggiornato": "2026-10-31",
    "voci": 20
   },
   "meteo": {
    "ok": true,
-   "aggiornato": "2026-10-30",
-   "voci": 0
+   "aggiornato": "2026-10-31",
+   "voci": 1
   }
  },
- "meteo": [],
+ "meteo": [
+  {
+   "level": "yellow",
+   "sl": "Veter",
+   "it": "Vento",
+   "onset": "2026-11-01T00:00:00+00:00",
+   "expires": "2026-11-01T22:59:00+00:00"
+  }
+ ],
  "albo": [
   {
    "id": "albo-10068712",
@@ -282,41 +290,6 @@
    "bp_n": 22,
    "pdf": "arhiv/akti/2026/2026-10-19_delibera-di-giunta_112-2026_indirizzi-per-la-realizzazione-del-progetto-di-bil.pdf",
    "txt": "arhiv/akti/2026/2026-10-19_delibera-di-giunta_112-2026_indirizzi-per-la-realizzazione-del-progetto-di-bil.txt"
-  },
-  {
-   "id": "albo-10043613",
-   "src": "albo",
-   "cat": "lavori",
-   "tipo_sl": "Odločba",
-   "tipo_it": "Determinazione",
-   "tipologia": "Determinazioni dirigenziali",
-   "num": "827/2026",
-   "it": "Lavori di manutenzione ordinaria dei corsi d’acqua. Decisione a contrarre: affidamento dei lavori all’operatore economico tecnogreen s.n.c. di marko biekar e stefano biekar di trieste.",
-   "sl": "",
-   "date": "2026-10-15",
-   "until": "2026-10-30",
-   "svet": [],
-   "url": "https://www.comune.san-dorligo-della-valle.ts.it/it/albo-pretorio-3612",
-   "fase": "affidamento",
-   "txt": "arhiv/akti/2026/2026-10-15_determinazione_827-2026_lavori-di-manutenzione-ordinaria-dei-corsi-dacqua.txt"
-  },
-  {
-   "id": "albo-10043455",
-   "src": "albo",
-   "cat": "bp",
-   "tipo_sl": "Odločba",
-   "tipo_it": "Determinazione",
-   "tipologia": "Determinazioni dirigenziali",
-   "num": "820/2026",
-   "it": "Processo del bilancio partecipativo. Fornitura e installazione di n. 11 bacheche metalliche per la promozione di eventi e iniziative della comunità e realizzazione ed installazione di n. 6 tabelle informative-storiche nei centri abitati del territorio comunale. Decisione a contrarre: affidamento all’operatore economico segnaletika s.r.l. di San Dorligo della Valle - Dolina.",
-   "sl": "",
-   "date": "2026-10-15",
-   "until": "2026-10-30",
-   "svet": [],
-   "url": "https://www.comune.san-dorligo-della-valle.ts.it/it/albo-pretorio-3612",
-   "fase": "affidamento",
-   "pdf": "arhiv/akti/2026/2026-10-15_determinazione_820-2026_processo-del-bilancio-partecipativo-fornitura-e-in.pdf",
-   "txt": "arhiv/akti/2026/2026-10-15_determinazione_820-2026_processo-del-bilancio-partecipativo-fornitura-e-in.txt"
   },
   {
    "id": "albo-10013642",
