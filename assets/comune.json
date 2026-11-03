@@ -2,17 +2,17 @@
  "stato": {
   "albo": {
    "ok": true,
-   "aggiornato": "2026-11-02",
-   "voci": 17
+   "aggiornato": "2026-11-03",
+   "voci": 15
   },
   "rss": {
    "ok": true,
-   "aggiornato": "2026-11-02",
+   "aggiornato": "2026-11-03",
    "voci": 20
   },
   "meteo": {
    "ok": true,
-   "aggiornato": "2026-11-02",
+   "aggiornato": "2026-11-03",
    "voci": 1
   }
  },
@@ -283,42 +283,6 @@
    "sl": "",
    "date": "2026-10-22",
    "until": "2026-11-06",
-   "svet": [],
-   "url": "https://www.comune.san-dorligo-della-valle.ts.it/it/albo-pretorio-3612"
-  },
-  {
-   "id": "albo-10044103",
-   "src": "albo",
-   "cat": "bp",
-   "tipo_sl": "Sklep odbora",
-   "tipo_it": "Delibera di Giunta",
-   "tipologia": "Deliberazioni giuntali",
-   "num": "112/2026",
-   "it": "Indirizzi per la realizzazione del progetto di bilancio partecipativo n. 22 \"sistemazione della sicurezza stradale per i pedoni tra la zona Šanca di Dolina e la palestra comunale\".",
-   "sl": "Smernice za izvedbo projekta participativnega proračuna št. 22 »ureditev prometne varnosti za pešce med šanco v Dolini in občinsko telovadnico«.",
-   "date": "2026-10-19",
-   "until": "2026-11-02",
-   "svet": [
-    "a"
-   ],
-   "url": "https://www.comune.san-dorligo-della-valle.ts.it/it/albo-pretorio-3612",
-   "fase": "progetto",
-   "bp_n": 22,
-   "pdf": "arhiv/akti/2026/2026-10-19_delibera-di-giunta_112-2026_indirizzi-per-la-realizzazione-del-progetto-di-bil.pdf",
-   "txt": "arhiv/akti/2026/2026-10-19_delibera-di-giunta_112-2026_indirizzi-per-la-realizzazione-del-progetto-di-bil.txt"
-  },
-  {
-   "id": "albo-10013642",
-   "src": "albo",
-   "cat": "avvisi",
-   "tipo_sl": "Županova odredba",
-   "tipo_it": "Ordinanza sindacale",
-   "tipologia": "Ordinanze sindacali",
-   "num": "10318/2026",
-   "it": "Ordinanza sindacale ai sensi dell’art. 192, comma 3, del D.Lgs. 3 aprile 2006, n. 152 e ss.mm.ii., per la rimozione e il corretto conferimento di rifiuto costituito da autovettura fuori uso marca [OMISSIS...], tipo [OMISSIS...], targata [OMISSIS...], presente sul terreno di pertinenza del civico n. [OMISSIS...] di località [OMISSIS...], nel Comune di San Dorligo della Valle-Dolina",
-   "sl": "Županova odredba v skladu s tretjim odstavkom 192. člena ZU št. 152 z dne 3. 4. 2006 z n. s. d. o odstranitvi in pravilni oddaji odpadka, in sicer izrabljenega avtomobila znamke […], modela […], z registrsko tablico […], ki se nahaja na zemljišču pri hišni številki […]v […] v občini Dolina",
-   "date": "2026-09-24",
-   "until": "2026-11-02",
    "svet": [],
    "url": "https://www.comune.san-dorligo-della-valle.ts.it/it/albo-pretorio-3612"
   }
