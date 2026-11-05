@@ -3,7 +3,7 @@
   "albo": {
    "ok": true,
    "aggiornato": "2026-11-05",
-   "voci": 19
+   "voci": 18
   },
   "rss": {
    "ok": true,
@@ -278,30 +278,6 @@
     "m_sl": "Zaradi namestitve novega električnega voda"
    },
    "txt": "arhiv/akti/2026/2026-10-23_ordinanza_78-2026_ordinanza-temporanea-in-linea-di-viabilita-limitaz.txt"
-  },
-  {
-   "id": "albo-10055485",
-   "src": "albo",
-   "cat": "viabilita",
-   "tipo_sl": "Odredba",
-   "tipo_it": "Ordinanza",
-   "tipologia": "Ordinanze dirigenziali",
-   "num": "77/2026",
-   "it": "Limitazione della circolazione veicolare in loc. Dolina. Istituzione di un percorso pedonale su tratto di strada comunale in località Dolina compreso tra il civico n. 187 e il civico n. 361.",
-   "sl": "Omejitev prometa v Dolini. Vzpostavitev pešpoti na občinski cesti v Dolini med hišnima številkama 187 in 361.",
-   "date": "2026-10-22",
-   "until": "2026-11-05",
-   "svet": [
-    "a"
-   ],
-   "url": "https://www.comune.san-dorligo-della-valle.ts.it/it/albo-pretorio-3612",
-   "sint": {
-    "h_it": "Dolina, tra i civici 187 e 361: percorso pedonale e limitazioni alla circolazione",
-    "h_sl": "Dolina, med h. št. 187 in 361: pešpot in omejitev prometa",
-    "m_it": "",
-    "m_sl": ""
-   },
-   "txt": "arhiv/akti/2026/2026-10-22_ordinanza_77-2026_limitazione-della-circolazione-veicolare-in-loc-do.txt"
   },
   {
    "id": "albo-10054419",
