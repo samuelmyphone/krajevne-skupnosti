@@ -2,17 +2,17 @@
  "stato": {
   "albo": {
    "ok": true,
-   "aggiornato": "2026-11-06",
-   "voci": 18
+   "aggiornato": "2026-11-07",
+   "voci": 14
   },
   "rss": {
    "ok": true,
-   "aggiornato": "2026-11-06",
+   "aggiornato": "2026-11-07",
    "voci": 20
   },
   "meteo": {
    "ok": true,
-   "aggiornato": "2026-11-06",
+   "aggiornato": "2026-11-07",
    "voci": 0
   }
  },
@@ -252,75 +252,6 @@
    "sl": "Sprejetje razpisa za dodeljevanje prispevkov za namestitev varnostnih sistemov v skladu s pravilnikom, sprejetim z upd 33/2023, kot je bil spremenjen z upd 95/2026 – leto 2026.",
    "date": "2026-10-26",
    "until": "2026-11-09",
-   "svet": [],
-   "url": "https://www.comune.san-dorligo-della-valle.ts.it/it/albo-pretorio-3612"
-  },
-  {
-   "id": "albo-10057924",
-   "src": "albo",
-   "cat": "viabilita",
-   "tipo_sl": "Odredba",
-   "tipo_it": "Ordinanza",
-   "tipologia": "Ordinanze dirigenziali",
-   "num": "78/2026",
-   "it": "Ordinanza temporanea in linea di viabilita’ - limitazione della circolazione su un tratto di strada comunale p.c.n. 2884/1 del c.c. di Draga Sant’Elia, in località Draga nei pressi del civ. 18 per la posa in opera di una nuova linea elettrica",
-   "sl": "Začasna prometna ureditev - omejitev prometa na odseku občinske ceste na k. p. št. 2884/1 k. o. Draga v Dragi pri h. št. 18 zaradi namestitve novega električnega voda",
-   "date": "2026-10-23",
-   "until": "2026-11-06",
-   "svet": [
-    "c"
-   ],
-   "url": "https://www.comune.san-dorligo-della-valle.ts.it/it/albo-pretorio-3612",
-   "sint": {
-    "h_it": "Draga, presso il civ. 18: limitazioni alla circolazione",
-    "h_sl": "Draga, pri h. št. 18: omejitev prometa",
-    "m_it": "Posa in opera di una nuova linea elettrica",
-    "m_sl": "Zaradi namestitve novega električnega voda"
-   },
-   "txt": "arhiv/akti/2026/2026-10-23_ordinanza_78-2026_ordinanza-temporanea-in-linea-di-viabilita-limitaz.txt"
-  },
-  {
-   "id": "albo-10054419",
-   "src": "albo",
-   "cat": "prilike",
-   "tipo_sl": "Odločba",
-   "tipo_it": "Determinazione",
-   "tipologia": "Determinazioni dirigenziali",
-   "num": "853/2026",
-   "it": "TARI 2026 – riduzione compostaggio per utenze domestiche",
-   "sl": "",
-   "date": "2026-10-22",
-   "until": "2026-11-06",
-   "svet": [],
-   "url": "https://www.comune.san-dorligo-della-valle.ts.it/it/albo-pretorio-3612"
-  },
-  {
-   "id": "albo-10054417",
-   "src": "albo",
-   "cat": "prilike",
-   "tipo_sl": "Odločba",
-   "tipo_it": "Determinazione",
-   "tipologia": "Determinazioni dirigenziali",
-   "num": "852/2026",
-   "it": "TARI 2026 - riduzioni ed agevolazioni per utenze domestiche - anziano in casa di riposo",
-   "sl": "",
-   "date": "2026-10-22",
-   "until": "2026-11-06",
-   "svet": [],
-   "url": "https://www.comune.san-dorligo-della-valle.ts.it/it/albo-pretorio-3612"
-  },
-  {
-   "id": "albo-10054361",
-   "src": "albo",
-   "cat": "prilike",
-   "tipo_sl": "Odločba",
-   "tipo_it": "Determinazione",
-   "tipologia": "Determinazioni dirigenziali",
-   "num": "850/2026",
-   "it": "Contributo Regione FVG - LR 1/2016, art 19 e l431/1998, art.11 - fondo per il sostegno all’accesso alle abitazioni in locazione. (decreto 2026-grfvg-52954",
-   "sl": "",
-   "date": "2026-10-22",
-   "until": "2026-11-06",
    "svet": [],
    "url": "https://www.comune.san-dorligo-della-valle.ts.it/it/albo-pretorio-3612"
   }
