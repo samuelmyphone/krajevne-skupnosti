@@ -20,8 +20,8 @@ jobs:
   sync:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
         with:
           python-version: '3.12'
       - name: Strumenti per leggere i PDF
@@ -38,8 +38,12 @@ jobs:
             git config user.email "obvestila@cfks-dolina.org"
             git add assets/comune.json arhiv
             git commit -m "Iz občine: posodobitev / Dal Comune: aggiornamento"
-            git pull --rebase -q origin main
-            git push -q origin main
+            # fino a 3 tentativi: un errore momentaneo di GitHub non deve far fallire il giro
+            for i in 1 2 3; do
+              if git pull --rebase -q origin main && git push -q origin main; then exit 0; fi
+              echo "Tentativo $i non riuscito, riprovo tra 30 s"; sleep 30
+            done
+            exit 1
           fi
       - name: Segnala errori (email di GitHub)
         if: steps.sync.outcome == 'failure'
