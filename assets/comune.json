@@ -3,7 +3,7 @@
   "albo": {
    "ok": true,
    "aggiornato": "2026-11-09",
-   "voci": 15
+   "voci": 16
   },
   "rss": {
    "ok": true,
@@ -18,6 +18,30 @@
  },
  "meteo": [],
  "albo": [
+  {
+   "id": "albo-10081968",
+   "src": "albo",
+   "cat": "viabilita",
+   "tipo_sl": "Odredba",
+   "tipo_it": "Ordinanza",
+   "tipologia": "Ordinanze dirigenziali",
+   "num": "81/2026",
+   "it": "Ordinanza temporanea in linea di viabilita’ - istituzione di divieto di sosta con rimozione su dei tratti di strada comunale all’interno dell’abitato di Puglie - Pulje per consentire prove tecniche di transito degli autobus del trasporto pubblico locale nella giornata di giovedì 12 novembre 2026.",
+   "sl": "Začasna prometna ureditev - prepoved parkiranja z odvozom na odsekih občinskih cest v Puljah zaradi izvedbe tehničnih preizkusov vožnje avtobusov lokalnega javnega prevoza v četrtek, 12. novembra 2026.",
+   "date": "2026-11-09",
+   "until": "2026-11-23",
+   "svet": [
+    "e"
+   ],
+   "url": "https://www.comune.san-dorligo-della-valle.ts.it/it/albo-pretorio-3612",
+   "sint": {
+    "h_it": "Puglie: limitazioni alla circolazione",
+    "h_sl": "Pulje: omejitev prometa",
+    "m_it": "Prove tecniche di transito degli autobus del trasporto pubblico locale nella giornata di giovedì 12 novembre 2026",
+    "m_sl": "Zaradi izvedbe tehničnih preizkusov vožnje avtobusov lokalnega javnega prevoza v četrtek, 12. novembra 2026"
+   },
+   "txt": "arhiv/akti/2026/2026-11-09_ordinanza_81-2026_ordinanza-temporanea-in-linea-di-viabilita-istituz.txt"
+  },
   {
    "id": "albo-10076662",
    "src": "albo",
