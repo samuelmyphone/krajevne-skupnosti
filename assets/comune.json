@@ -2,22 +2,38 @@
  "stato": {
   "albo": {
    "ok": true,
-   "aggiornato": "2026-11-08",
-   "voci": 14
+   "aggiornato": "2026-11-09",
+   "voci": 15
   },
   "rss": {
    "ok": true,
-   "aggiornato": "2026-11-08",
+   "aggiornato": "2026-11-09",
    "voci": 20
   },
   "meteo": {
    "ok": true,
-   "aggiornato": "2026-11-08",
+   "aggiornato": "2026-11-09",
    "voci": 0
   }
  },
  "meteo": [],
  "albo": [
+  {
+   "id": "albo-10076662",
+   "src": "albo",
+   "cat": "lavori",
+   "tipo_sl": "Sklep odbora",
+   "tipo_it": "Delibera di Giunta",
+   "tipologia": "Deliberazioni giuntali",
+   "num": "119/2026",
+   "it": "Realizzazione congiunta del calendario “sotto gli ulivi della valle del breg 2027” con il consorzio dell’olio tergeste dop.",
+   "sl": "Skupna priprava koledarja »pod oljkami v bregu 2027« s konzorcijem ekstra deviškega oljčnega olja tergeste dop.",
+   "date": "2026-11-09",
+   "until": "2026-11-23",
+   "svet": [],
+   "url": "https://www.comune.san-dorligo-della-valle.ts.it/it/albo-pretorio-3612",
+   "txt": "arhiv/akti/2026/2026-11-09_delibera-di-giunta_119-2026_realizzazione-congiunta-del-calendario-sotto-gli-u.txt"
+  },
   {
    "id": "albo-10072675",
    "src": "albo",
