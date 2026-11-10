@@ -2,17 +2,17 @@
  "stato": {
   "albo": {
    "ok": true,
-   "aggiornato": "2026-11-09",
-   "voci": 16
+   "aggiornato": "2026-11-10",
+   "voci": 15
   },
   "rss": {
    "ok": true,
-   "aggiornato": "2026-11-09",
+   "aggiornato": "2026-11-10",
    "voci": 20
   },
   "meteo": {
    "ok": true,
-   "aggiornato": "2026-11-09",
+   "aggiornato": "2026-11-10",
    "voci": 0
   }
  },
@@ -278,21 +278,6 @@
    "svet": [
     "a"
    ],
-   "url": "https://www.comune.san-dorligo-della-valle.ts.it/it/albo-pretorio-3612"
-  },
-  {
-   "id": "albo-10053040",
-   "src": "albo",
-   "cat": "prilike",
-   "tipo_sl": "Sklep odbora",
-   "tipo_it": "Delibera di Giunta",
-   "tipologia": "Deliberazioni giuntali",
-   "num": "114/2026",
-   "it": "Approvazione bando per la concessione di contributi per l’installazione di sistemi di sicurezza, ai sensi del regolamento emanato con d.p.reg. n. 33/2023, come modificato dal d.p.reg. n. 95/2026 – anno 2026.",
-   "sl": "Sprejetje razpisa za dodeljevanje prispevkov za namestitev varnostnih sistemov v skladu s pravilnikom, sprejetim z upd 33/2023, kot je bil spremenjen z upd 95/2026 – leto 2026.",
-   "date": "2026-10-26",
-   "until": "2026-11-09",
-   "svet": [],
    "url": "https://www.comune.san-dorligo-della-valle.ts.it/it/albo-pretorio-3612"
   }
  ],
