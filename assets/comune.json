@@ -8,12 +8,12 @@
   "rss": {
    "ok": true,
    "aggiornato": "2026-11-11",
-   "voci": 20
+   "voci": 21
   },
   "meteo": {
    "ok": true,
    "aggiornato": "2026-11-11",
-   "voci": 3
+   "voci": 4
   }
  },
  "meteo": [
@@ -22,21 +22,28 @@
    "sl": "Dež",
    "it": "Pioggia",
    "onset": "2026-11-12T12:00:00+00:00",
-   "expires": "2026-11-12T22:59:00+00:00"
+   "expires": "2026-11-12T23:59:00+00:00"
   },
   {
    "level": "orange",
    "sl": "Nevihte",
    "it": "Temporali",
    "onset": "2026-11-12T12:00:00+00:00",
-   "expires": "2026-11-12T22:59:00+00:00"
+   "expires": "2026-11-12T23:59:00+00:00"
+  },
+  {
+   "level": "yellow",
+   "sl": "Nevihte",
+   "it": "Temporali",
+   "onset": "2026-11-11T09:00:00+00:00",
+   "expires": "2026-11-11T23:59:00+00:00"
   },
   {
    "level": "yellow",
    "sl": "Veter",
    "it": "Vento",
    "onset": "2026-11-12T18:00:00+00:00",
-   "expires": "2026-11-12T22:59:00+00:00"
+   "expires": "2026-11-12T23:59:00+00:00"
   }
  ],
  "albo": [
@@ -305,6 +312,30 @@
  ],
  "rss": [
   {
+   "id": "rss-176410",
+   "src": "rss",
+   "cat": "eventi",
+   "it": "Presentazione della seconda edizione del progetto \"Mi ricordo che...\" a Borgo Grotta Gigante (Sgonico)",
+   "sl": "Predstavitev druge izvedbe projekta “Spominjam se...” v Briščikih (Zgonik)",
+   "date": "2026-11-11",
+   "until": "",
+   "svet": [],
+   "url": "https://www.comune.san-dorligo-della-valle.ts.it/it/novita-85680/notizie-85681/presentazione-della-seconda-edizione-del-progetto-mi-ricordo-che-a-borgo-grotta-gigante-sgonico-176410"
+  },
+  {
+   "id": "rss-176426",
+   "src": "rss",
+   "cat": "eventi",
+   "it": "Attività di socializzazione, ricreazione, laboratori creativi e stimolazione cognitiva nel centro di aggregazione Dolina",
+   "sl": "Dejavnosti druženja, rekreacije, kreativnih delavnic in kognitivne stimulacije v centru druženja Dolina",
+   "date": "2026-11-11",
+   "until": "",
+   "svet": [
+    "a"
+   ],
+   "url": "https://www.comune.san-dorligo-della-valle.ts.it/it/novita-85680/notizie-85681/attivita-di-socializzazione-ricreazione-laboratori-creativi-e-stimolazione-cognitiva-nel-centro-di-aggregazione-dolina-176426"
+  },
+  {
    "id": "rss-176180",
    "src": "rss",
    "cat": "eventi",
@@ -522,17 +553,6 @@
     "a"
    ],
    "url": "https://www.comune.san-dorligo-della-valle.ts.it/it/novita-85680/notizie-85681/attivita-di-socializzazione-ricreazione-laboratori-creativi-e-stimolazione-cognitiva-nel-centro-di-aggregazione-dolina-170735"
-  },
-  {
-   "id": "rss-170556",
-   "src": "rss",
-   "cat": "avvisi",
-   "it": "Nuovi orari estivi del Centro comunale di raccolta dei rifiuti urbani",
-   "sl": "Novi poletni urnik zbirnega centra za komunalne odpadke",
-   "date": "2026-07-01",
-   "until": "",
-   "svet": [],
-   "url": "https://www.comune.san-dorligo-della-valle.ts.it/it/novita-85680/notizie-85681/nuovi-orari-estivi-del-centro-comunale-di-raccolta-dei-rifiuti-urbani-170556"
   }
  ]
 }
