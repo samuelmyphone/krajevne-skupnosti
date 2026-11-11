@@ -2,21 +2,43 @@
  "stato": {
   "albo": {
    "ok": true,
-   "aggiornato": "2026-11-10",
+   "aggiornato": "2026-11-11",
    "voci": 15
   },
   "rss": {
    "ok": true,
-   "aggiornato": "2026-11-10",
+   "aggiornato": "2026-11-11",
    "voci": 20
   },
   "meteo": {
    "ok": true,
-   "aggiornato": "2026-11-10",
-   "voci": 0
+   "aggiornato": "2026-11-11",
+   "voci": 3
   }
  },
- "meteo": [],
+ "meteo": [
+  {
+   "level": "red",
+   "sl": "Dež",
+   "it": "Pioggia",
+   "onset": "2026-11-12T12:00:00+00:00",
+   "expires": "2026-11-12T22:59:00+00:00"
+  },
+  {
+   "level": "orange",
+   "sl": "Nevihte",
+   "it": "Temporali",
+   "onset": "2026-11-12T12:00:00+00:00",
+   "expires": "2026-11-12T22:59:00+00:00"
+  },
+  {
+   "level": "yellow",
+   "sl": "Veter",
+   "it": "Vento",
+   "onset": "2026-11-12T18:00:00+00:00",
+   "expires": "2026-11-12T22:59:00+00:00"
+  }
+ ],
  "albo": [
   {
    "id": "albo-10081968",
