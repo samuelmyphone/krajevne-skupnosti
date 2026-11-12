@@ -2,18 +2,18 @@
  "stato": {
   "albo": {
    "ok": true,
-   "aggiornato": "2026-11-11",
+   "aggiornato": "2026-11-12",
    "voci": 15
   },
   "rss": {
    "ok": true,
-   "aggiornato": "2026-11-11",
+   "aggiornato": "2026-11-12",
    "voci": 21
   },
   "meteo": {
    "ok": true,
-   "aggiornato": "2026-11-11",
-   "voci": 4
+   "aggiornato": "2026-11-12",
+   "voci": 6
   }
  },
  "meteo": [
@@ -32,11 +32,18 @@
    "expires": "2026-11-12T23:59:00+00:00"
   },
   {
-   "level": "yellow",
+   "level": "orange",
    "sl": "Nevihte",
    "it": "Temporali",
-   "onset": "2026-11-11T09:00:00+00:00",
-   "expires": "2026-11-11T23:59:00+00:00"
+   "onset": "2026-11-13T18:00:00+00:00",
+   "expires": "2026-11-13T22:59:00+00:00"
+  },
+  {
+   "level": "orange",
+   "sl": "Dež",
+   "it": "Pioggia",
+   "onset": "2026-11-13T18:00:00+00:00",
+   "expires": "2026-11-13T22:59:00+00:00"
   },
   {
    "level": "yellow",
@@ -44,6 +51,13 @@
    "it": "Vento",
    "onset": "2026-11-12T18:00:00+00:00",
    "expires": "2026-11-12T23:59:00+00:00"
+  },
+  {
+   "level": "yellow",
+   "sl": "Veter",
+   "it": "Vento",
+   "onset": "2026-11-13T12:00:00+00:00",
+   "expires": "2026-11-13T22:59:00+00:00"
   }
  ],
  "albo": [
