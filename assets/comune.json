@@ -3,7 +3,7 @@
   "albo": {
    "ok": true,
    "aggiornato": "2026-11-12",
-   "voci": 15
+   "voci": 17
   },
   "rss": {
    "ok": true,
@@ -61,6 +61,48 @@
   }
  ],
  "albo": [
+  {
+   "id": "albo-10088218",
+   "src": "albo",
+   "cat": "prilike",
+   "tipo_sl": "Odredba",
+   "tipo_it": "Ordinanza",
+   "tipologia": "Ordinanze dirigenziali",
+   "num": "",
+   "it": "Ordinanza contingibile ed urgente per la chiusura temporanea d’un tratto di strada pubblica sulla p.c. 1926/1 del C.c. di Bagnoli della Rosandra-Boljunec interessata dal crollo parziale d’un muro di sostegno limitrofo.",
+   "sl": "Nepredvidljiva in nujna odredba za začasno zaporo odseka javne ceste na parceli št. 1926/1 K.o. Boljunec zaradi delne zrušitve nanj bližnjega podpornega zidu.",
+   "date": "2026-11-12",
+   "until": "2026-11-26",
+   "svet": [
+    "b"
+   ],
+   "url": "https://www.comune.san-dorligo-della-valle.ts.it/it/albo-pretorio-3612"
+  },
+  {
+   "id": "albo-10088078",
+   "src": "albo",
+   "cat": "viabilita",
+   "tipo_sl": "Odredba",
+   "tipo_it": "Ordinanza",
+   "tipologia": "Ordinanze dirigenziali",
+   "num": "82/2026",
+   "it": "Ordinanza temporanea in linea di viabilita’ - limitazione della circolazione su tratto di strada comunale e su un tratto di strada regionale ts11 “di prebenico” nel centro abitato di Bagnoli della Rosandra - Boljunec, per l’esecuzione di uno scavo per lavori di posa in opera di una nuova derivazione alla rete del gas.",
+   "sl": "Začasna prometna ureditev - omejitev prometa na odseku občinske ceste in na odseku deželne ceste ts11 »za Prebeneg« v Boljuncu zaradi izvedbe izkopa pri vgradnji novega priključka na plinsko omrežje.",
+   "date": "2026-11-12",
+   "until": "2026-11-26",
+   "svet": [
+    "b",
+    "f"
+   ],
+   "url": "https://www.comune.san-dorligo-della-valle.ts.it/it/albo-pretorio-3612",
+   "sint": {
+    "h_it": "Bagnoli della Rosandra: limitazioni alla circolazione",
+    "h_sl": "Boljunec: omejitev prometa",
+    "m_it": "Esecuzione di uno scavo per lavori di posa in opera di una nuova derivazione alla rete del gas",
+    "m_sl": "Zaradi izvedbe izkopa pri vgradnji novega priključka na plinsko omrežje"
+   },
+   "txt": "arhiv/akti/2026/2026-11-12_ordinanza_82-2026_ordinanza-temporanea-in-linea-di-viabilita-limitaz.txt"
+  },
   {
    "id": "albo-10081968",
    "src": "albo",
