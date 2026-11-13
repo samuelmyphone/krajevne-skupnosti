@@ -13,30 +13,16 @@
   "meteo": {
    "ok": true,
    "aggiornato": "2026-11-13",
-   "voci": 3
+   "voci": 1
   }
  },
  "meteo": [
   {
-   "level": "orange",
-   "sl": "Nevihte",
-   "it": "Temporali",
-   "onset": "2026-11-13T00:00:00+00:00",
-   "expires": "2026-11-13T05:59:00+00:00"
-  },
-  {
-   "level": "orange",
-   "sl": "Dež",
-   "it": "Pioggia",
-   "onset": "2026-11-13T00:00:00+00:00",
-   "expires": "2026-11-13T05:59:00+00:00"
-  },
-  {
    "level": "yellow",
    "sl": "Veter",
    "it": "Vento",
-   "onset": "2026-11-13T12:00:00+00:00",
-   "expires": "2026-11-13T23:59:00+00:00"
+   "onset": "2026-11-13T08:00:00+00:00",
+   "expires": "2026-11-13T17:59:00+00:00"
   }
  ],
  "albo": [
@@ -347,6 +333,17 @@
  ],
  "rss": [
   {
+   "id": "rss-176602",
+   "src": "rss",
+   "cat": "lavori",
+   "it": "Chiusura temporanea d’un tratto di strada pubblica interessata dal crollo parziale d’un muro di sostegno limitrofo",
+   "sl": "Nepredvidljiva in nujna odredba za začasno zaporo odseka javne ceste zaradi delne zrušitve nanj bližnjega podpornega zidu",
+   "date": "2026-11-13",
+   "until": "",
+   "svet": [],
+   "url": "https://www.comune.san-dorligo-della-valle.ts.it/it/novita-85680/avvisi-85683/ordinanza-contingibile-ed-urgente-per-la-chiusura-temporanea-dun-tratto-di-strada-pubblica-sulla-pc-19261-del-cc-di-bagnoli-della-rosandra-boljunec-interessata-dal-crollo-parziale-dun-muro-di-sostegno-limitrofo-176602"
+  },
+  {
    "id": "rss-176410",
    "src": "rss",
    "cat": "eventi",
@@ -564,17 +561,6 @@
    "until": "",
    "svet": [],
    "url": "https://www.comune.san-dorligo-della-valle.ts.it/it/amministrazione-trasparente-3527/bandi-di-gara-e-contratti-3568/manifestazione-di-interesse-concessione-temporanea-e-occasionale-dellutilizzo-delle-bancarelle-comunali-e-dei-materiali-per-lorganizzazione-e-il-coordinamento-dellarea-degustazione-nellambito-delliniziativa-le-notti-del-vino-171083"
-  },
-  {
-   "id": "rss-170719",
-   "src": "rss",
-   "cat": "prilike",
-   "it": "Bando per la concessione di contributi per l’installazione di sistemi antifurto, antirapina o antintrusione e di videosorveglianza – anno 2025",
-   "sl": "Razpis za dodeljevanje prispevkov za namestitev protivlomnih ali protiropnih naprav in video nadzornih sistemov – leto 2025",
-   "date": "2026-07-06",
-   "until": "",
-   "svet": [],
-   "url": "https://www.comune.san-dorligo-della-valle.ts.it/it/novita-85680/avvisi-85683/bando-per-la-concessione-di-contributi-per-linstallazione-di-sistemi-antifurto-antirapina-o-antintrusione-e-di-videosorveglianza-anno-2025-170719"
   },
   {
    "id": "rss-170735",
