@@ -2,17 +2,17 @@
  "stato": {
   "albo": {
    "ok": true,
-   "aggiornato": "2026-11-13",
-   "voci": 21
+   "aggiornato": "2026-11-14",
+   "voci": 16
   },
   "rss": {
    "ok": true,
-   "aggiornato": "2026-11-13",
+   "aggiornato": "2026-11-14",
    "voci": 21
   },
   "meteo": {
    "ok": true,
-   "aggiornato": "2026-11-13",
+   "aggiornato": "2026-11-14",
    "voci": 0
   }
  },
@@ -261,30 +261,6 @@
    "txt": "arhiv/akti/2026/2026-11-02_delibera-di-giunta_118-2026_adozione-dello-schema-del-programma-triennale-dei.txt"
   },
   {
-   "id": "albo-10068712",
-   "src": "albo",
-   "cat": "viabilita",
-   "tipo_sl": "Odredba",
-   "tipo_it": "Ordinanza",
-   "tipologia": "Ordinanze dirigenziali",
-   "num": "80/2026",
-   "it": "Ordinanza temporanea in linea di viabilita’ - limitazione della circolazione veicolare su strade comunali nel centro abitato di San Giuseppe della Chiusa – Ricmanje per lavori di riqualificazione del centro storico.",
-   "sl": "Začasna prometna ureditev - omejitev prometa na občinskih cestah v Ricmanjih zaradi prenove vaškega jedra.",
-   "date": "2026-10-30",
-   "until": "2026-11-13",
-   "svet": [
-    "d"
-   ],
-   "url": "https://www.comune.san-dorligo-della-valle.ts.it/it/albo-pretorio-3612",
-   "sint": {
-    "h_it": "San Giuseppe della Chiusa: limitazioni alla circolazione",
-    "h_sl": "Ricmanje: omejitev prometa",
-    "m_it": "Lavori di riqualificazione del centro storico",
-    "m_sl": "Zaradi prenove vaškega jedra"
-   },
-   "txt": "arhiv/akti/2026/2026-10-30_ordinanza_80-2026_ordinanza-temporanea-in-linea-di-viabilita-limitaz.txt"
-  },
-  {
    "id": "albo-10067604",
    "src": "albo",
    "cat": "prilike",
@@ -311,71 +287,6 @@
    "sl": "",
    "date": "2026-10-30",
    "until": "2027-03-15",
-   "svet": [],
-   "url": "https://www.comune.san-dorligo-della-valle.ts.it/it/albo-pretorio-3612"
-  },
-  {
-   "id": "albo-10065406",
-   "src": "albo",
-   "cat": "lavori",
-   "tipo_sl": "Odločba",
-   "tipo_it": "Determinazione",
-   "tipologia": "Determinazioni dirigenziali",
-   "num": "875/2026",
-   "it": "Varie procedure su piattaforma mepa per affidamenti diretti di vari lavori e servizi ai sensi dell’art. 17, comma 2, e dell’art. 50, comma 1, lettera b), del D.Lgs. 36/2023 (“codice dei contratti pubblici”). pagamento diritti all’a.n.a.c. autorita’ nazionale anti corruzione – impegno di spesa.",
-   "sl": "",
-   "date": "2026-10-29",
-   "until": "2026-11-13",
-   "svet": [],
-   "url": "https://www.comune.san-dorligo-della-valle.ts.it/it/albo-pretorio-3612",
-   "txt": "arhiv/akti/2026/2026-10-29_determinazione_875-2026_varie-procedure-su-piattaforma-mepa-per-affidament.txt"
-  },
-  {
-   "id": "albo-10065404",
-   "src": "albo",
-   "cat": "lavori",
-   "tipo_sl": "Odločba",
-   "tipo_it": "Determinazione",
-   "tipologia": "Determinazioni dirigenziali",
-   "num": "874/2026",
-   "it": "Determinazione a contrarre l’impegno di spesa e l’affidamento diretto ai sensi dell’art. 50, c. 1, lett. B), del D.Lgs. n. 36 del 31 marzo 2023 per la fornitura di pali rotondi di pino impregnato per la manutenzione di strade e piazze comunali, alla ditta brezzilegni srl, c.f./.",
-   "sl": "",
-   "date": "2026-10-29",
-   "until": "2026-11-13",
-   "svet": [],
-   "url": "https://www.comune.san-dorligo-della-valle.ts.it/it/albo-pretorio-3612",
-   "fase": "affidamento",
-   "txt": "arhiv/akti/2026/2026-10-29_determinazione_874-2026_determinazione-a-contrarre-limpegno-di-spesa-e-laf.txt"
-  },
-  {
-   "id": "albo-10065302",
-   "src": "albo",
-   "cat": "lavori",
-   "tipo_sl": "Odločba",
-   "tipo_it": "Determinazione",
-   "tipologia": "Determinazioni dirigenziali",
-   "num": "873/2026",
-   "it": "20° anno riserva naturale della Val Rosandra - naravni rezervat doline glinščice decisione a contrarre: affidamento degli interventi di manutenzione ordinaria e sistemazione del sentiero cai n. 1 all’interno della riserva naturale regionale della Val Rosandra – Dolina glinščice all’operatore verdeinquota s.r.l. di trieste.",
-   "sl": "",
-   "date": "2026-10-29",
-   "until": "2026-11-13",
-   "svet": [],
-   "url": "https://www.comune.san-dorligo-della-valle.ts.it/it/albo-pretorio-3612",
-   "fase": "affidamento",
-   "txt": "arhiv/akti/2026/2026-10-29_determinazione_873-2026_20-anno-riserva-naturale-della-val-rosandra-naravn.txt"
-  },
-  {
-   "id": "albo-10065216",
-   "src": "albo",
-   "cat": "avvisi",
-   "tipo_sl": "Odločba",
-   "tipo_it": "Determinazione",
-   "tipologia": "Determinazioni dirigenziali",
-   "num": "863/2026",
-   "it": "Convenzione novennale tra il Comune di San Dorligo della Valle – Občina Dolina e l’associazione di volontariato del terzo settore prostovoljno gasilsko društvo - corpo pompieri volontari breg odv per lo svolgimento del servizio antincendio. Impegno di spesa per l’annualita’ 2026.",
-   "sl": "",
-   "date": "2026-10-29",
-   "until": "2026-11-13",
    "svet": [],
    "url": "https://www.comune.san-dorligo-della-valle.ts.it/it/albo-pretorio-3612"
   },
