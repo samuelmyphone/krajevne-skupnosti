@@ -2,17 +2,17 @@
  "stato": {
   "albo": {
    "ok": true,
-   "aggiornato": "2026-11-14",
-   "voci": 16
+   "aggiornato": "2026-11-15",
+   "voci": 15
   },
   "rss": {
    "ok": true,
-   "aggiornato": "2026-11-14",
+   "aggiornato": "2026-11-15",
    "voci": 21
   },
   "meteo": {
    "ok": true,
-   "aggiornato": "2026-11-14",
+   "aggiornato": "2026-11-15",
    "voci": 0
   }
  },
@@ -259,21 +259,6 @@
    "svet": [],
    "url": "https://www.comune.san-dorligo-della-valle.ts.it/it/albo-pretorio-3612",
    "txt": "arhiv/akti/2026/2026-11-02_delibera-di-giunta_118-2026_adozione-dello-schema-del-programma-triennale-dei.txt"
-  },
-  {
-   "id": "albo-10067604",
-   "src": "albo",
-   "cat": "prilike",
-   "tipo_sl": "Odločba",
-   "tipo_it": "Determinazione",
-   "tipologia": "Determinazioni dirigenziali",
-   "num": "882/2026",
-   "it": "TARI 2026 – riduzioni per utenze non domestiche – agriturismi",
-   "sl": "",
-   "date": "2026-10-30",
-   "until": "2026-11-14",
-   "svet": [],
-   "url": "https://www.comune.san-dorligo-della-valle.ts.it/it/albo-pretorio-3612"
   },
   {
    "id": "albo-10067196",
