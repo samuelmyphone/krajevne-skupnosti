@@ -13,10 +13,25 @@
   "meteo": {
    "ok": true,
    "aggiornato": "2026-11-17",
-   "voci": 0
+   "voci": 2
   }
  },
- "meteo": [],
+ "meteo": [
+  {
+   "level": "yellow",
+   "sl": "Nevihte",
+   "it": "Temporali",
+   "onset": "2026-11-17T09:00:00+00:00",
+   "expires": "2026-11-18T00:59:00+00:00"
+  },
+  {
+   "level": "yellow",
+   "sl": "Dež",
+   "it": "Pioggia",
+   "onset": "2026-11-17T09:00:00+00:00",
+   "expires": "2026-11-18T00:59:00+00:00"
+  }
+ ],
  "albo": [
   {
    "id": "albo-10090567",
