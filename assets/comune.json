@@ -3,7 +3,7 @@
   "albo": {
    "ok": true,
    "aggiornato": "2026-11-18",
-   "voci": 14
+   "voci": 15
   },
   "rss": {
    "ok": true,
@@ -40,6 +40,30 @@
   }
  ],
  "albo": [
+  {
+   "id": "albo-10098183",
+   "src": "albo",
+   "cat": "viabilita",
+   "tipo_sl": "Odredba",
+   "tipo_it": "Ordinanza",
+   "tipologia": "Ordinanze dirigenziali",
+   "num": "85/2026",
+   "it": "Ordinanza temporanea in linea di viabilita’ - limitazione della circolazione in località Bagnoli della Rosandra - Boljunec per il montaggio e successivo smontaggio delle luminarie natalizie.",
+   "sl": "Začasna prometna ureditev - omejitev prometa v naselju Boljunec zaradi postavitve in poznejše odstranitve božičnih lučk.",
+   "date": "2026-11-18",
+   "until": "2026-12-02",
+   "svet": [
+    "b"
+   ],
+   "url": "https://www.comune.san-dorligo-della-valle.ts.it/it/albo-pretorio-3612",
+   "sint": {
+    "h_it": "Bagnoli della Rosandra: limitazioni alla circolazione",
+    "h_sl": "Boljunec: omejitev prometa",
+    "m_it": "Montaggio e successivo smontaggio delle luminarie natalizie",
+    "m_sl": "Zaradi postavitve in poznejše odstranitve božičnih lučk"
+   },
+   "txt": "arhiv/akti/2026/2026-11-18_ordinanza_85-2026_ordinanza-temporanea-in-linea-di-viabilita-limitaz.txt"
+  },
   {
    "id": "albo-10090567",
    "src": "albo",
