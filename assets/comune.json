@@ -3,7 +3,7 @@
   "albo": {
    "ok": true,
    "aggiornato": "2026-11-19",
-   "voci": 11
+   "voci": 13
   },
   "rss": {
    "ok": true,
@@ -18,6 +18,41 @@
  },
  "meteo": [],
  "albo": [
+  {
+   "id": "albo-10099992",
+   "src": "albo",
+   "cat": "lavori",
+   "tipo_sl": "Odločba",
+   "tipo_it": "Determinazione",
+   "tipologia": "Determinazioni dirigenziali",
+   "num": "945/2026",
+   "it": "Decisione a contrarre: servizio per la valutazione dei rischi connessi all’elettrificazione dei cancelli scorrevoli del nuovo centro di raccolta comunale dei rifiuti urbani funzionale per la loro elettrificazione. Affidamento servizi all’operatore economico d.v.k. di trieste.",
+   "sl": "",
+   "date": "2026-11-19",
+   "until": "2026-12-04",
+   "svet": [],
+   "url": "https://www.comune.san-dorligo-della-valle.ts.it/it/albo-pretorio-3612",
+   "fase": "affidamento",
+   "txt": "arhiv/akti/2026/2026-11-19_determinazione_945-2026_decisione-a-contrarre-servizio-per-la-valutazione.txt"
+  },
+  {
+   "id": "albo-10099990",
+   "src": "albo",
+   "cat": "lavori",
+   "tipo_sl": "Odločba",
+   "tipo_it": "Determinazione",
+   "tipologia": "Determinazioni dirigenziali",
+   "num": "944/2026",
+   "it": "Lavori di riqualificazione energetica della sede municipale di Dolina 270 (impianto termico e di raffrescamento). approvazione cronoprogramma finanziario.",
+   "sl": "",
+   "date": "2026-11-19",
+   "until": "2026-12-04",
+   "svet": [
+    "a"
+   ],
+   "url": "https://www.comune.san-dorligo-della-valle.ts.it/it/albo-pretorio-3612",
+   "txt": "arhiv/akti/2026/2026-11-19_determinazione_944-2026_lavori-di-riqualificazione-energetica-della-sede-m.txt"
+  },
   {
    "id": "albo-10098183",
    "src": "albo",
