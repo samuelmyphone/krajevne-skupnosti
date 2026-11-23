@@ -2,36 +2,21 @@
  "stato": {
   "albo": {
    "ok": true,
-   "aggiornato": "2026-11-22",
+   "aggiornato": "2026-11-23",
    "voci": 13
   },
   "rss": {
    "ok": true,
-   "aggiornato": "2026-11-22",
+   "aggiornato": "2026-11-23",
    "voci": 21
   },
   "meteo": {
    "ok": true,
-   "aggiornato": "2026-11-22",
-   "voci": 2
+   "aggiornato": "2026-11-23",
+   "voci": 0
   }
  },
- "meteo": [
-  {
-   "level": "yellow",
-   "sl": "Dež",
-   "it": "Pioggia",
-   "onset": "2026-11-22T09:00:00+00:00",
-   "expires": "2026-11-22T23:59:00+00:00"
-  },
-  {
-   "level": "yellow",
-   "sl": "Nevihte",
-   "it": "Temporali",
-   "onset": "2026-11-22T09:00:00+00:00",
-   "expires": "2026-11-22T23:59:00+00:00"
-  }
- ],
+ "meteo": [],
  "albo": [
   {
    "id": "albo-10099992",
