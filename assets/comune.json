@@ -3,7 +3,7 @@
   "albo": {
    "ok": true,
    "aggiornato": "2026-11-24",
-   "voci": 11
+   "voci": 12
   },
   "rss": {
    "ok": true,
@@ -13,26 +13,36 @@
   "meteo": {
    "ok": true,
    "aggiornato": "2026-11-24",
-   "voci": 2
+   "voci": 1
   }
  },
  "meteo": [
   {
    "level": "yellow",
-   "sl": "Sneg in poledica",
-   "it": "Neve e ghiaccio",
-   "onset": "2026-11-25T00:00:00+00:00",
-   "expires": "2026-11-25T22:59:00+00:00"
-  },
-  {
-   "level": "yellow",
    "sl": "Dež",
    "it": "Pioggia",
-   "onset": "2026-11-25T00:00:00+00:00",
-   "expires": "2026-11-25T22:59:00+00:00"
+   "onset": "2026-11-25T18:00:00+00:00",
+   "expires": "2026-11-26T22:59:00+00:00"
   }
  ],
  "albo": [
+  {
+   "id": "albo-10106962",
+   "src": "albo",
+   "cat": "lavori",
+   "tipo_sl": "Odločba",
+   "tipo_it": "Determinazione",
+   "tipologia": "Determinazioni dirigenziali",
+   "num": "957/2026",
+   "it": "Realizzazione congiunta del calendario “pod oljkami v bregu - sotto gli ulivi della valle del breg 2027“. decisione a contrarre: affidamento servizio di prestazione artistica.",
+   "sl": "",
+   "date": "2026-11-24",
+   "until": "2026-12-09",
+   "svet": [],
+   "url": "https://www.comune.san-dorligo-della-valle.ts.it/it/albo-pretorio-3612",
+   "fase": "affidamento",
+   "txt": "arhiv/akti/2026/2026-11-24_determinazione_957-2026_realizzazione-congiunta-del-calendario-pod-oljkami.txt"
+  },
   {
    "id": "albo-10099992",
    "src": "albo",
