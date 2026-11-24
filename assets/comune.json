@@ -13,7 +13,7 @@
   "meteo": {
    "ok": true,
    "aggiornato": "2026-11-24",
-   "voci": 1
+   "voci": 2
   }
  },
  "meteo": [
@@ -22,6 +22,13 @@
    "sl": "Dež",
    "it": "Pioggia",
    "onset": "2026-11-25T18:00:00+00:00",
+   "expires": "2026-11-26T22:59:00+00:00"
+  },
+  {
+   "level": "yellow",
+   "sl": "Sneg in poledica",
+   "it": "Neve e ghiaccio",
+   "onset": "2026-11-26T00:00:00+00:00",
    "expires": "2026-11-26T22:59:00+00:00"
   }
  ],
