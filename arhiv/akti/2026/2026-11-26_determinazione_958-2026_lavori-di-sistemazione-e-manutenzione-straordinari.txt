@@ -1,0 +1,557 @@
+               COMUNE DI S. DORLIGO DELLA VALLE – OBČINA DOLINA
+                                                    (TRIESTE – TRST)
+
+
+
+
+Determinazione nr. 958 dd. 23.11.2026
+
+    AREA LAVORI PUBBLICI, AMBIENTE E CULTURA - ODDELEK ZA
+               INVESTICIJE, OKOLJE IN KULTURO
+OGGETTO:       LAVORI DI SISTEMAZIONE E MANUTENZIONE STRAORDINARIA DEL CORSO
+               D’ACQUA RIO DOLINA.
+               SERVIZI DI VERIFICA DEGLI ELABORATI STRUTTURALI.
+              DECISIONE A CONTRARRE: AFFIDAMENTO SERVIZI ALL’ING. ANDREA DE
+              FRANCESCHI DI TRIESTE.
+CIG: BDEA9B2B20
+SPESA: 761,28 EURO
+
+                                IL RESPONSABILE DEL SERVIZIO
+
+
+Premesso che con decreto n. 3039/AMB del 12.10.2017 del Direttore del Servizio difesa del suolo
+dell’Area tutela geologico-idrica-ambientale della Direzione centrale ambiente ed energia della
+Regione Autonoma Friuli Venezia Giulia è stata impegnata la spesa di 8.247,20 euro al fine del
+trasferimento dei fondi al Comune di San Dorligo della Valle - Dolina per la progettazione relativa
+alla “Manutenzione straordinaria del rio Dolina”, per la finalità di cui all’articolo 15 della legge
+regionale 29 aprile 2015, n. 11;
+Preso atto che con determinazione n. 552/D di data 06.12.2017, a seguito di pubblicazione di un
+avviso pubblico relativo all’indagine esplorativa e conoscitiva finalizzata all'individuazione di
+operatori economici qualificati da consultare presenti sul mercato, è stato affidato l’incarico dei
+servizi attinenti l’ingegneria e l’architettura relativi all’opera pubblica di sistemazione e
+manutenzione straordinaria del corso d’acqua rio Dolina allo Studio Cappella s.r.l. di Gorizia, che ha
+previsto la redazione del progetto di fattibilità tecnica ed economica, la redazione del progetto
+esecutivo ed il coordinamento per la sicurezza in fase di progettazione;
+Vista la deliberazione giuntale n. 73/g di data 04.06.2018 di approvazione dello studio di fattibilità
+tecnica ed economica dei lavori di sistemazione e manutenzione straordinaria del corso d’acqua rio
+Dolina, redatto dallo Studio Cappella s.r.l. di Gorizia e datato 14 maggio 2018, con il seguente
+quadro economico:
+             A) LAVORI DA APPALTARE
+             A.1 Lavori a base d’asta                              102.175,34 EUR
+             A.2 Attuazione piani Sicurezza (D.Lgs. 81/2008)         3.650,00 euro
+             TOTALE A)                                            105.825,34 euro
+
+           B) SOMME A DISPOSIZIONE
+           B.1 I.V.A. 22% su A)                                          23.281,57 euro
+           B.2 Spese tecniche (4% e IVA 22% incl.)                       21.000,00 euro
+
+             Comune di San Dorligo della Valle - Občina Dolina – Determina n. 958 del 23.11.2026
+             B.3 Rilievi, accertamenti e indagini                5.290,00 euro
+             B.4 Acquisizione aree, espropri e occupazioni       3.000,00 euro
+             B.5 Imprevisti                                      6.603,09 euro
+             TOTALE B)                                          59.174,66 euro
+             TOTALE COMPLESSIVO A) + B)                      165.000,00 euro
+Considerato che lo Studio Cappella s.r.l. di Gorizia in data 22.02.2019 ha redatto il progetto
+definitivo – esecutivo con il seguente quadro economico:
+             A) LAVORI DA APPALTARE
+             A.1 Lavori a base d’asta                           98.278,86 euro
+             A.2 Attuazione piani Sicurezza (D.Lgs. 81/2008)     5.051,49 euro
+             TOTALE A)                                         103.330,35 euro
+
+           B) SOMME A DISPOSIZIONE
+           B.1 I.V.A. 22% su A)                                        22.732,68 euro
+           B.2 Spese tecniche (4% e IVA 22% incl.)                     21.000,00 euro
+           B.3 Rilievi, accertamenti e indagini                          1.500,00 euro
+           B.4 Sorveglianza archeologica                                 2.500,00 euro
+           B.5 Acquisizione aree, espropri e occupazioni                 3.000,00 euro
+           B.6 Imprevisti                                                5.936,97 euro
+           TOTALE B)                                                   56.669,65 euro
+           TOTALE COMPLESSIVO A) + B)                                160.000,00 euro
+Tenuto conto che:
+− con deliberazione n. 783 di data 24.05.2024 la Giunta regionale ha approvato il Programma
+annuale per l’esercizio 2024 degli interventi di manutenzione straordinaria sui corsi d’acqua e delle
+opere idrauliche della rete idrografica regionale, nel quale è stato inserito anche un trasferimento
+di fondi pari a 220.000,00 euro a favore del Comune di San Dorligo della Valle – Dolina per
+l’intervento relativo ai lavori di sistemazione e manutenzione straordinaria del corso d'acqua rio
+Dolina;
+− con decreto n. 33805/GRFVG di data 12.07.2024 del Direttore del Servizio difesa del suolo
+della Direzione centrale difesa dell’ambiente, energia e sviluppo sostenibile della Regione
+Autonoma Friuli Venezia Giulia è stato disposto il trasferimento dei fondi pari a 220.000,00 euro al
+Comune di San Dorligo della Valle – Dolina per l’intervento denominato “Lavori di sistemazione e
+manutenzione straordinaria del corso d'acqua rio Dolina”;
+Vista la deliberazione consiliare n. 18 di data 10.07.2024 di approvazione dell’aggiornamento n. 1
+al programma triennale dei lavori pubblici per gli anni 2024/2025/2026 e l’elenco annuale dei lavori
+dell’anno 2024, con il quale è stata inclusa l’opera relativa ai lavori di sistemazione e manutenzione
+straordinaria del corso d'acqua rio Dolina per l’importo complessivo di 220.000,00 euro;
+Tenuto conto che a seguito del trasferimento dei fondi pari a 220.000,00 euro al Comune di San
+Dorligo della Valle – Dolina si è reso necessario adeguare i prezzi all’anno 2024, rielaborare gli
+elaborati per la ripresentazione dell’istanza di autorizzazione paesaggistica ed adeguare le fasi
+progettuali alla sopraggiunta nuova normativa regolante i contratti pubblici di cui al D.Lgs. 31
+marzo 2023 n. 36;
+Vista la determinazione n. 707 di data 02.09.2024 con la quale è stato dato atto della necessità di
+rielaborare - a seguito del trasferimento dei fondi pari a 220.000,00 euro - il progetto di fattibilità
+tecnica ed economica ed il progetto esecutivo per l’intervento denominato “Lavori di sistemazione
+e manutenzione straordinaria del corso d'acqua rio Dolina”, adeguando i prezzi all’anno 2024 ed
+adeguando le fasi progettuali alla sopraggiunta nuova normativa regolante i contratti pubblici di cui
+al D.Lgs. 31 marzo 2023 n. 36;
+Preso atto che in data 16.09.2024 lo Studio Cappella s.r.l. di Gorizia ha redatto il progetto di
+fattibilità tecnica ed economica aggiornato dei lavori di sistemazione e manutenzione straordinaria
+
+             Comune di San Dorligo della Valle - Občina Dolina – Determina n. 958 del 23.11.2026
+del corso d’acqua rio Dolina;
+Vista la deliberazione giuntale n. 93 di data 10.10.2024 di approvazione del progetto di fattibilità
+tecnica ed economica aggiornato dei lavori di sistemazione e manutenzione straordinaria del corso
+d’acqua rio Dolina, redatto dallo Studio Cappella s.r.l. di Gorizia, con il seguente quadro
+economico:
+A) LAVORI IN APPALTO                                                                     in euro
+A.1 Lavori a base d’asta                                                         145.763,89
+A.2 Attuazione Piani della Sicurezza (D.lgs. 81/08)                                5.239,95
+    Sommano per lavori (TOTALE A)                                                                  151.003,84
+B   SOMME A DISPOSIZIONE DELL'AMMINISTRAZIONE                                            in euro
+B.1 I.V.A. 22% su A)                                                              33.220,84
+B.2 Spese tecniche                                                                22.650,58
+B.3 Fondo ex art. 45 D.Lgs. 36/2023                                                3.020,08
+B.4 Rilievi accertamenti indagini                                                  1.500,00
+B.5 Sorveglianza archeologica                                                      2.500,00
+B.6 Espropri e occupazioni                                                         3.000,00
+B.7 Imprevisti                                                                     3.104,66
+    Totale somme a disposizione (TOTALE B)                                                          68.996,16
+    TOTALE COMPLESSIVO A) + B)                                                                     220.000,00
+Preso atto che l’aggiornamento del progetto di fattibilità tecnica ed economica è stato trasmesso
+all’Ente di decentramento regionale di Trieste per l’espressione di un parere, in quanto ente
+gestore della strada S.R. TS n. 12, che nel tratto interessato dal progetto si sviluppa con
+andamento pressoché parallelo e in prossimità del corso del rio;
+Tenuto conto del parere preliminare espresso dall’Ente di decentramento regionale di Trieste
+prot.n. EDR-TRIESTE/2025/0007195 del 12.11.2025;
+Considerato che il progetto prevedeva il mero smontaggio e successivo rimontaggio delle barriere
+stradali esistenti, le prescrizioni impartite dall’Ente di decentramento regionale di Trieste richiedono
+un aggiornamento dello stesso, prevendendo la sostituzione integrale della barriera stradale;
+Rilevato che il progettista ha considerato possibile demolire l'intera barriera stradale e ricostruirne
+solo una parte, visto che il tratto centrale non necessita di barriere stradali per la sua
+conformazione;
+Ritenuto pertanto necessario aggiornare il progetto di fattibilità tecnica ed economica in conformità
+alle scelte sopra illustrate, al fine di contenere i costi entro le risorse economiche disponibili,
+garantire la sicurezza dei manufatti e delle proprietà limitrofe e semplificare l’esecuzione dei lavori,
+assicurando al contempo la funzionalità complessiva dell’intervento previsto sul corso d’acqua rio
+Dolina, apportando le seguenti modifiche condivise con i tecnici dell’Ente di decentramento
+regionale di Trieste:
+− stralcio della predisposizione della pista ciclo-pedonale dal progetto, comprensiva della relativa
+massicciata e della staccionata lungo il rio in quanto si è appurato che non è possibile garantire
+uno sbocco alla pista a monte;
+−   eliminazione completa della barriera stradale esistente durante l’esecuzione dei lavori;
+− installazione di nuove barriere stradali esclusivamente nei tratti terminali, per una lunghezza
+complessiva di circa 100 metri, a protezione del manufatto in calcestruzzo armato (a monte) e
+della proprietà privata (a valle);
+− adeguamento delle modalità esecutive dei lavori alle prescrizioni di sicurezza e certificazione
+finale delle opere, secondo quanto richiesto dall’Ente di decentramento regionale di Trieste;
+Preso atto che in data 28.01.2026 lo Studio Cappella s.r.l. di Gorizia ha redatto il progetto di
+fattibilità tecnica ed economica aggiornato dei lavori di sistemazione e manutenzione straordinaria
+del corso d’acqua rio Dolina;
+
+             Comune di San Dorligo della Valle - Občina Dolina – Determina n. 958 del 23.11.2026
+Vista la deliberazione giuntale n. 20 del 11.02.2026 di approvazione del progetto di fattibilità
+tecnica ed economica aggiornato dei lavori di sistemazione e manutenzione straordinaria del corso
+d’acqua rio Dolina, redatto dallo Studio Cappella s.r.l. di Gorizia, con il seguente quadro
+economico:
+A) LAVORI IN APPALTO                                                                        in euro
+A.1 Lavori a base d’asta                                                            144.301,00
+A.2 Attuazione Piani della Sicurezza (D.lgs. 81/08)                                   5.239,95
+    Sommano per lavori (TOTALE A)                                                                     149.540,95
+B   SOMME A DISPOSIZIONE DELL'AMMINISTRAZIONE                                               in euro
+B.1 I.V.A. 22% su A)                                                                 32.899,01
+B.2 Spese tecniche                                                                   22.431,14
+B.3 Fondo ex art. 45 D.Lgs. 36/2023                                                   2.990,82
+B.4 Rilievi accertamenti indagini                                                     1.500,00
+B.5 Sorveglianza archeologica                                                         2.500,00
+B.6 Espropri e occupazioni                                                            3.000,00
+B.7 Imprevisti                                                                        5.138,08
+    Totale somme a disposizione (TOTALE B)                                                             70.459,05
+    TOTALE COMPLESSIVO A) + B)                                                                        220.000,00
+Tenuto conto del parere tecnico favorevole e nulla osta all’esecuzione dei lavori di sistemazione e
+manutenzione straordinaria del corso d’acqua rio Dolina, rilasciato dall’Ente di decentramento
+regionale di Trieste con nota prot.n. 0002362/P di data 17.04.2026;
+Preso atto:
+− del decreto n. 2580/AMB del 18.06.2019 del Responsabile di Posizione Organizzativa del
+Servizio difesa del suolo della Direzione centrale ambiente ed energia della Regione Autonoma
+Friuli Venezia Giulia sulla base del quale è stata è rilasciata l’autorizzazione idraulica ai sensi della
+L.R. 29.04.2015, n.11, per le opere di straordinaria manutenzione del rio Dolina, progettate dallo
+Studio Cappella s.r.l., per conto del Comune di San Dorligo della Valle-Dolina;
+− altresì della successiva nota prot.n. 0292780/P/GEN del 14.04.2025 del Servizio difesa del
+suolo della Direzione centrale difesa dell'ambiente, energia e sviluppo sostenibile della Regione
+Autonoma Friuli Venezia Giulia, relativa all'autorizzazione idraulica rilasciata con il predetto decreto
+n. 2580/AMB del 18.06.2019, con la quale, a seguito dell'istruttoria tecnica sulla documentazione
+progettuale aggiornata, è stato accertato che l'intervento mantiene invariate le caratteristiche
+tecniche e idrauliche rispetto a quello originariamente autorizzato, essendo state apportate
+esclusivamente modifiche agli aspetti economici mediante aggiornamento dei prezzi delle
+lavorazioni, e che, conseguentemente, non risulta necessario il rilascio di una nuova autorizzazione
+idraulica, essendo stata espressamente confermata l'attualità dell'autorizzazione già rilasciata con il
+citato decreto n. 2580/AMB del 18.06.2019;
+Rilevato che:
+− il Direttore del Servizio pianificazione paesaggistica, territoriale e strategica della Direzione
+centrale infrastrutture e territorio della Regione Autonoma Friuli Venezia Giulia con decreto n.
+61872/GRFVG di data 04.12.2024 ha autorizzato - ai sensi dell’articolo 11, comma 5, del D.P.R.
+31/2017 e dell’articolo 146 del D.Lgs. 22 gennaio 2004, n. 42, e ss.mm.ii. - la realizzazione delle
+opere relative al progetto di “Sistemazione e manutenzione straordinaria del corso d’acqua Rio
+Dolina sulle ppccnn 1102/2, 1192/2, 1193, 1102/5, 2862/1 - Fg 3 in Comune di San Dorligo della
+Valle – Dolina”;
+− il Direttore del Servizio pianificazione paesaggistica, territoriale e strategica della Direzione
+centrale infrastrutture e territorio della Regione Autonoma Friuli Venezia Giulia con decreto n.
+11843/GRFVG di data 06.03.2026 ha autorizzato - ai sensi dell’articolo 11, comma 5, del D.P.R.
+31/2017 e dell’articolo 146 del D.Lgs. 22 gennaio 2004, n. 42, e ss.mm.ii. - la realizzazione delle
+opere relative al progetto di “Sistemazione e manutenzione straordinaria del corso d’acqua Rio
+
+                Comune di San Dorligo della Valle - Občina Dolina – Determina n. 958 del 23.11.2026
+Dolina. pp.cc.nn. 1102/2, 1192/2, 1193, 1102/5, 2862/1 Foglio/i 3 San Dorligo della Valle.
+Aggiornamento progetto autorizzato con decreto n. 61872/GRFVG del 04.12.2024”;
+Preso atto che in data 29.10.2026 lo Studio Cappella s.r.l. di Gorizia ha redatto il progetto
+esecutivo dei lavori di sistemazione e manutenzione straordinaria del corso d’acqua rio Dolina,
+composto dai seguenti elaborati:
+ELABORATO                                   TITOLO                                  SCALA            DATA
+                                 Elaborati tecnico amministrativi
+      A.1       Relazione generale                                                                 29.10.2026
+      A.2       Relazione fotografica                                                              29.10.2026
+      B.1       Relazione idraulica                                                                29.10.2026
+      B.2       Relazione geotecnica e strutturale
+      B.3       Piano di gestione delle materie                                                    29.10.2026
+      C.        Elenco prezzi unitari                                                              29.10.2026
+      C.1       Analisi dei prezzi                                                                 29.10.2026
+      D.        Computo metrico estimativo                                                         29.10.2026
+      E.        Quadro incidenza della manodopera                                                  29.10.2026
+       F.       Quadro economico                                                                   29.10.2026
+      G.1       Capitolato speciale d'appalto - parte amministrativa                               29.10.2026
+      G.2       Capitolato speciale d'appalto - parte tecnica                                      29.10.2026
+      H.        Schema di contratto                                                                29.10.2026
+      I.1       Piano di sicurezza e coordinamento                                                 29.10.2026
+      I.2       Costi della sicurezza                                                              29.10.2026
+      I.3       Layout della sicurezza                                                             29.10.2026
+                Valutazione del rischio di rinvenimento ordigni bellici                            29.10.2026
+      I.4
+                inesplosi
+      L.        Fascicolo dell'opera                                                               29.10.2026
+      M.        Cronoprogramma                                                                     29.10.2026
+      N.        Piano di manutenzione dell’opera e delle sue parti                                 29.10.2026
+      O.        Quaderno dei pareri                                                                29.10.2026
+                Relazione geologica - dott. geol. B. Grego                                            2018
+                                           Elaborati grafici
+      1.1       Inquadramento - corografia                                           varie         29.10.2026
+      1.2       Inquadramento - estratto PRGC                                       1:5.000        29.10.2026
+      1.3       Inquadramento - estratto catastale                                  1:2.000        29.10.2026
+       2.       Planimetria stato di fatto e di progetto                             1:250         29.10.2026
+       3.       Profilo                                                            1:500/50        29.10.2026
+       4.       Sezioni                                                              1:100         29.10.2026
+       5.       Sezione particolareggiata                                            varie         29.10.2026
+      6.1       Opere strutturali - carpenterie                                       1:50         29.10.2026
+      6.2       Opere strutturali - armature                                          1:50         29.10.2026
+       7        Sezioni di scavo e particolari costruttivi                            1:50         29.10.2026
+Rilevato che il quadro economico del progetto esecutivo dei lavori di sistemazione e manutenzione
+straordinaria del corso d’acqua rio Dolina è il seguente:
+A) LAVORI IN APPALTO                                                                     in euro
+A.1 Lavori soggetti a ribasso                                                    144.000,74
+A.2 Attuazione Piani della Sicurezza (D.lgs. 81/08)                                6.308,59
+    Sommano per lavori (TOTALE A)                                                                  150.309,33
+B   SOMME A DISPOSIZIONE DELL'AMMINISTRAZIONE                                            in euro
+B.1 I.V.A. 22% su A)                                                              32.068,05
+B.2 Spese tecniche                                                                22.546,40
+             Comune di San Dorligo della Valle - Občina Dolina – Determina n. 958 del 23.11.2026
+B.3 Fondo ex art. 45 D.Lgs. 36/2023                                                  3.006,19
+B.4 Rilievi accertamenti indagini                                                    1.500,00
+B.5 Sorveglianza archeologica                                                        2.500,00
+B.6 Espropri e occupazioni                                                           2.000,00
+B.7 Imprevisti                                                                       5.070,03
+    Totale somme a disposizione (TOTALE B)                                                           69.690,67
+    TOTALE COMPLESSIVO A) + B)                                                                      220.000,00
+Ritenuto che con la consegna del progetto esecutivo e prima della sua approvazione sia necessario
+procedere alla verifica della progettazione ai sensi dell’articolo 42 del D.Lgs. 31 marzo 2023, n. 36, e
+ss.mm.ii.;
+Valutato che il servizio sopra descritto, limitatamente agli aspetti geotecnici e strutturali, non può
+essere svolto direttamente dal personale comunale, in quanto richiede competenze tecniche
+specialistiche in materia di ingegneria strutturale e geotecnica, delle quali l’Amministrazione
+comunale non dispone nell’ambito delle proprie risorse professionali;
+Considerato che:
+−       si rende pertanto necessario procedere all’affidamento del servizio a un operatore economico
+esterno in possesso delle necessarie competenze tecniche e professionali per effettuare le verifiche e
+le valutazioni richieste;
+−       il servizio dovrà comprendere la verifica, ai sensi dell’articolo 42 del D.Lgs. 36/2023 e delle
+disposizioni dell’Allegato I.7 al medesimo decreto, della documentazione progettuale relativa agli
+aspetti geotecnici e strutturali dell’intervento, con particolare riferimento alla Relazione geotecnica e
+strutturale (elaborato B.2) e agli elaborati grafici delle opere strutturali (elaborati 6.1 – Opere
+strutturali – carpenterie e 6.2 – Opere strutturali – armature), nonché agli ulteriori elaborati e
+documenti strettamente correlati, limitatamente agli aspetti di competenza, con rilascio del relativo
+rapporto conclusivo di verifica;
+−      all’affidamento deve provvedere il sottoscritto Responsabile dell’Area Lavori pubblici,
+Ambiente e Cultura, in qualità di assegnatario delle risorse finanziarie destinate all’intervento in
+oggetto;
+Visti:
+−       l’art. 29, comma 1, del D.Lgs. 31 marzo 2023 n. 36 “Codice dei contratti pubblici in
+attuazione dell’articolo 1 della legge 21 giugno 2022, n. 78, recante delega al Governo in materia
+di contratti pubblici”, che dispone che tutte le comunicazioni e gli scambi di informazioni di cui al
+codice sono eseguiti, in conformità con quanto disposto dal codice dell’amministrazione digitale di
+cui al decreto legislativo 7 marzo 2005, n. 82, tramite le piattaforme dell’ecosistema nazionale di
+approvvigionamento digitale (e-procurement), costituito dalle piattaforme e dai servizi digitali
+infrastrutturali abilitanti la gestione del ciclo di vita dei contratti pubblici e, per quanto non previsto
+dalle predette piattaforme, mediante l’utilizzo del domicilio digitale ovvero, per le comunicazioni tra
+pubbliche amministrazioni, ai sensi dell’articolo 47 del codice dell’amministrazione digitale, di cui al
+decreto legislativo n. 82 del 2005;
+−        l’art. 62, comma 1, del D.Lgs. 31 marzo 2023 n. 36, con il quale si stabilisce che tutte le
+stazioni appaltanti, fermi restando gli obblighi di utilizzo di strumenti di acquisto e di negoziazione
+previsti dalle vigenti disposizioni in materia di contenimento della spesa, possono procedere
+direttamente e autonomamente all'acquisizione di forniture e servizi di importo non superiore alle
+soglie previste per gli affidamenti diretti ovvero di importo inferiore a 140.000 euro, e
+all’affidamento di lavori d’importo pari o inferiore a 500.000 euro, nonché attraverso l'effettuazione
+di ordini a valere su strumenti di acquisto messi a disposizione dalle centrali di committenza
+qualificate e dai soggetti aggregatori;
+Vista la delibera Autorità Nazionale Anticorruzione (ANAC) n. 582 del 13 decembre 2023 con la quale
+è stato adottato il comunicato relativo all’avvio del processo di digitalizzazione secondo cui in
+ossequio agli articoli 25 e 26 del D.Lgs. 31 marzo 2023, n. 36, per tutti gli affidamenti, sopra e sotto
+
+              Comune di San Dorligo della Valle - Občina Dolina – Determina n. 958 del 23.11.2026
+soglia, a partire dal 1° gennaio 2024 dovranno essere utilizzate le piattaforme di approvvigionamento
+digitale che hanno compiuto il processo di certificazione delineato dalle Regole tecniche di AGID
+(provvedimento AGID n. 137/2023) e dallo Schema operativo (pubblicato sul sito di AGID il
+25.09.2023, il cui Allegato 2 è stato aggiornato in data 14 novembre 2023);
+Visto il comunicato del Presidente dell’Autorità Nazionale Anticorruzione (ANAC) del 10 gennaio 2024
+nel quale viene spiegato che l’Autorità, al fine di favorire le Amministrazioni nell’adeguarsi ai nuovi
+sistemi che prevedono l’utilizzo delle piattaforme elettroniche e garantire così un migliore passaggio
+verso l’amministrazione digitale, sentito il Ministero delle Infrastrutture e dei Trasporti, ritiene in ogni
+caso chiarire che allo scopo di consentire lo svolgimento delle ordinarie attività di
+approvvigionamento in coerenza con gli obiettivi della digitalizzazione, l’utilizzo dell’interfaccia web
+messa a disposizione dalla piattaforma contratti pubblici – PCP dell’Autorità, sarà disponibile anche
+per gli affidamenti diretti di importo inferiore a 5.000,00 euro fino al 30 settembre 2024 e che quindi
+sino a tale, per gli affidamenti in questione, non risulta obbligatorio utilizzare le piattaforme di
+approvvigionamento digitale;
+Tenuto conto che l’Autorità Nazionale Anticorruzione (ANAC) ha prorogato fino al 30 giugno 2025 la
+possibilità di utilizzare l’interfaccia web messa a disposizione dalla piattaforma contratti pubblici - PCP
+dell’autorità per gli affidamenti diretti di importo inferiore a 5.000 euro in caso di impossibilità o
+difficoltà di ricorso alle PAD al fine di consentire l’assolvimento delle funzioni ad essa demandate, ivi
+compresi gli obblighi in materia di trasparenza;
+Considerato che l’Autorità Nazionale Anticorruzione (ANAC), con comunicato del 18 giugno 2025, ha
+reso noto di aver prorogato, fino al raggiungimento della piena operatività delle Piattaforme di
+approvvigionamento digitale (PAD), la possibilità di utilizzare l’interfaccia web della Piattaforma
+contratti pubblici (PCP) per gli affidamenti diretti di importo inferiore a 5.000 euro;
+Stimato sommariamente che l’importo per i servizi in questione è inferiore alla succitata soglia di
+5.000,00 euro;
+Interpellato pertanto direttamente un professionista specializzato, individuato nell’ing. Andrea De
+Franceschi di Trieste, il quale ha manifestato la propria disponibilità a svolgere il servizio richiesto in
+tempi brevi;
+Tenuto conto che l’ing. Andrea De Franceschi di Trieste risulta essere un libero professionista, in
+possesso di specifica esperienza professionale nel campo dell’ingegneria strutturale e geotecnica,
+con particolare riferimento alla modellazione, al calcolo e alla verifica di strutture portanti, opere di
+sostegno e di fondazione, nonché allo svolgimento di incarichi professionali di verifica statica e
+strutturale anche per conto di pubbliche amministrazioni;
+Preso atto del preventivo presentato dall’ing. Andrea De Franceschi di Trieste relativo allo
+svolgimento del servizio di verifica degli elaborati progettuali attinenti agli aspetti geotecnici e
+strutturali del progetto esecutivo in oggetto, per un importo 600,00 euro, + 4% di cassa
+previdenziale, pari a 24,00 euro, + 22% di IVA di 624,00 euro, pari a 137,28 euro, per complessivi
+761,28 euro;
+Richiamato il disposto dell’art. 50 comma 1 del D.Lgs. 31 marzo 2023 n. 36, “Codice dei contratti
+pubblici in attuazione dell’articolo 1 della legge 21 giugno 2022, n. 78, e ss.mm.ii., recante delega
+al Governo in materia di contratti pubblici”, che recita:
+“(…) le stazioni appaltanti procedono all'affidamento dei contratti di lavori, servizi e forniture di
+importo inferiore alle soglie di cui all'articolo 14 con le seguenti modalità:
+a) (…);
+b) affidamento diretto dei servizi e forniture, ivi compresi i servizi di ingegneria e architettura e
+l'attività di progettazione, di importo inferiore a 140.000 euro, anche senza consultazione di più
+operatori economici, assicurando che siano scelti soggetti in possesso di documentate esperienze
+pregresse idonee all’esecuzione delle prestazioni contrattuali, anche individuati tra gli iscritti in
+elenchi o albi istituiti dalla stazione appaltante; “
+Appurato che l’Allegato I.1 al D.Lgs. 31 marzo 2023 n. 36, e ss.mm.ii., definisce, all’articolo 3,
+
+              Comune di San Dorligo della Valle - Občina Dolina – Determina n. 958 del 23.11.2026
+comma 1, lettera d), l’affidamento diretto come “l’affidamento del contratto senza una procedura
+di gara, nel quale, anche nel caso di previo interpello di più operatori economici, la scelta è operata
+discrezionalmente dalla stazione appaltante o dall’ente concedente, nel rispetto dei criteri
+qualitativi e quantitativi di cui all’articolo 50, comma 1 lettere a) e b), del codice e dei requisiti
+generali o speciali previsti dal medesimo codice”;
+Giudicato il preventivo succitato economicamente congruo e conveniente in relazione alle
+prestazioni richieste, alla complessità dell'intervento, ai tempi di esecuzione proposti e ai correnti
+valori di mercato;
+Considerato che l'offerta presentata risponde alle esigenze dell'Amministrazione sotto il profilo
+qualitativo, economico e temporale;
+Visto l'art. 107, comma 3, del D.Lgs. 18 agosto 2000, n. 267, e ss.mm.ii., il quale prevede che
+sono attribuiti ai responsabili di servizio tutti i compiti di attuazione degli obiettivi e dei programmi
+definiti con gli atti di indirizzo adottati dall'organo politico, tra i quali in particolare anche gli atti di
+gestione finanziaria, ivi compresa l'assunzione degli impegni di spesa;
+Visto il D.Lgs. 18 agosto 2000, n. 267, e ss.mm.ii., ed in particolare l’art. 183, rubricato “Impegno
+di spesa”;
+Visto il decreto del Sindaco n. GEN-DSIN-2024-12-P/3-4/S-PER dd. 14.10.2024 e il decreto del
+Sindaco n. GEN-DSIN-2025-1-P/3-4/S-PER dd. 21.02.2025, n. GEN-DSIN-2025-7-P/3-4/S-PER dd.
+01.08.2025 e n. GEN-DSIN-2026-11-P/3-4/S-PER dd. 10.09.2026 in materia di conferimento degli
+incarichi di posizione organizzativa ai responsabili delle PP.OO.;
+Visto il bilancio di previsione 2026 – 2027 - 2028;
+Visto il regolamento di contabilità comunale;
+Visto lo Statuto comunale;
+Visto il D.Lgs. 18 agosto 2000, n. 267, e ss.mm.ii.;
+
+
+                                                          DETERMINA
+
+
+per le motivazioni espresse nel preambolo del provvedimento che fanno parte integrante del
+presente dispositivo:
+1) di approvare il preventivo dell’ing. Andrea De Franceschi di Trieste, relativo allo svolgimento
+del servizio di verifica degli elaborati progettuali attinenti agli aspetti geotecnici e strutturali del
+progetto esecutivo in oggetto, per un importo 600,00 euro, + 4% di cassa previdenziale, pari a
+24,00 euro, + 22% di IVA di 624,00 euro, pari a 137,28 euro, per complessivi 761,28 euro;
+2) di affidare direttamente, ai sensi dell’articolo 50, comma 1, lettera b) del D.Lgs. 31 marzo 2023
+n. 36, e ss.mm.ii., all’ing. Andrea De Franceschi di Trieste – 34133 Trieste, via Carducci 8, codice
+fiscale [omissis] e P.IVA 01029720313 – il servizio di verifica, ai sensi dell’articolo 42 del
+D.Lgs. 31 marzo 2023 n. 36, e ss.mm.ii., degli elaborati progettuali attinenti agli aspetti geotecnici e
+strutturali del progetto esecutivo dei lavori di sistemazione e manutenzione straordinaria del corso
+d’acqua rio Dolina, per un importo 600,00 euro, + 4% di cassa previdenziale, pari a 24,00 euro, +
+22% di IVA di 624,00 euro, pari a 137,28 euro, per complessivi 761,28 euro;
+3)      di accertare l’entrata complessiva di 761,28 euro sul capitolo di seguito elencato:
+Eser.    EPF    CIG    Cap./Art.   Descrizione capitolo             Piano dei            Importo     Soggetto
+                                                                    Conti                (in euro)
+                                                                    Finanziario
+2026     2026          567/0       CONTRIBUTI REGIONALI PER         4 2 1 2       1   761,28         REGIONE
+                                   INTERVENTI DI MANUTENZIONE                                        AUTONOMA FRIULI
+                                   STRAORDINARIA SUI CORSI                                           VENEZIA GIULIA
+                                   D'ACQUA / DEŽELNI PRISPEVKI ZA                                    cod.fisc.
+                                   IZREDNO VZDRŽEVANJE VODNIH                                        80014930327/ p.i.
+                                   TOKOV                                                             IT 00526040324
+
+
+                 Comune di San Dorligo della Valle - Občina Dolina – Determina n. 958 del 23.11.2026
+ 4)      di impegnare l’importo di 761,28 euro sul capitolo di seguito elencato:
+ Eser.     EPF    CIG           Cap./Art.   MP    Descrizione capitolo   Piano dei Conti      Importo     Soggetto
+                                                                         Finanziario          (in euro)
+ 2026      2026   BDEA9B2B20    2691/0      9-1   MANUTENZIONE           2 2 2 2 2         761,28         DE
+                                                  ALVEI TORRENTE                                          FRANCESCHI
+                                                  ROSANDRA,                                               ANDREA
+                                                  S.ANTONIO E DOLINA                                      cod.fisc.
+                                                  - VZDRŽEVANJE                                           DFRNDR74L30
+                                                  STRUG POTOKOV                                           F443H/ p.i. IT
+                                                  GLINŠČICE, BORŠTA                                       01029720313
+                                                  IN DOLINE
+
+ 5) di aggiornare a tal fine il quadro economico come di seguito riportato, attingendo le relative
+ somme dalla voce B.7 Imprevisti e creando una nuova ulteriore voce B.8 Servizi verifica progetto
+ strutturale:
+
+A)       LAVORI IN APPALTO                                                                          in euro
+A.1      Lavori soggetti a ribasso                                                         144.000,74
+A.2      Attuazione Piani della Sicurezza (D.lgs. 81/08)                                     6.308,59
+         Sommano per lavori (TOTALE A)                                                                    150.309,33
+B        SOMME A DISPOSIZIONE DELL'AMMINISTRAZIONE                                                  in euro
+B.1      I.V.A. 22% su A)                                                                   32.068,05
+B.2      Spese tecniche                                                                     22.546,40
+B.3      Fondo ex art. 45 D.Lgs. 36/2023                                                     3.006,19
+B.4      Rilievi accertamenti indagini                                                       1.500,00
+B.5      Sorveglianza archeologica                                                           2.500,00
+B.6      Espropri e occupazioni                                                              2.000,00
+B.7      Imprevisti                                                                          4.308,75
+B.8      Servizi verifica progetto strutturale                                                 761,28
+         Totale somme a disposizione (TOTALE B)                                                            69.690,67
+         TOTALE COMPLESSIVO A) + B)                                                                       220.000,00
+
+
+                                                                             Il Responsabile
+                                                                         F.to Dott. Mitja Lovriha
+
+
+
+
+                  Comune di San Dorligo della Valle - Občina Dolina – Determina n. 958 del 23.11.2026
+                    COMUNE DI S. DORLIGO DELLA VALLE – OBČINA DOLINA
+                                                                  (TRIESTE – TRST)
+
+
+
+
+        N.RO DETERMINA                           DATA                        PROPOSTA DA                       DATA ESECUTIVITA’
+                                                                     AREA LAVORI PUBBLICI,
+                                                                     AMBIENTE E CULTURA -
+                958                    23/11/2026                   ODDELEK ZA INVESTICIJE,
+                                                                                                                  24/11/2026
+                                                                      OKOLJE IN KULTURO
+
+OGGETTO: LAVORI DI SISTEMAZIONE E MANUTENZIONE STRAORDINARIA DEL CORSO
+D’ACQUA RIO DOLINA. SERVIZI DI VERIFICA DEGLI ELABORATI STRUTTURALI.
+DECISIONE A CONTRARRE: AFFIDAMENTO SERVIZI ALL’ING. ANDREA DE FRANCESCHI
+DI TRIESTE.
+
+
+Ai sensi dell’art. 151, comma 4° del D.Lgs. 267 dd. 18.08.2000, si appone il visto di regolarità
+contabile e l’attestazione della copertura finanziaria.
+
+                                                                                                  IL/LA RESPONSABILE
+                                                                                               DELL’UFFICIO RAGIONERIA
+                                                                                             (F.to Dott.ssa Martina Kosmina)
+
+Impegna la spesa complessiva di euro 761,28 sui capitoli di seguito elencati:
+
+                                                                             Piano dei Conti      Importo                         Num.
+Eser.     EPF           CIG    Cap./Art.    MP      Descrizione capitolo                                         Soggetto
+                                                                               Finanziario          (eu)                        Impegno
+2026     2026      BDEA9B2B2   2691/0      9-1     MANUTENZIONE             2 2 2 2 2            761,28        DE               685
+                   0                               ALVEI TORRENTE                                              FRANCESCH
+                                                   ROSANDRA,                                                   I ANDREA
+                                                   S.ANTONIO E                                                 cod.fisc.
+                                                   DOLINA -                                                    DFRNDR74L
+                                                   VZDRŽEVANJE                                                 30F443H/
+                                                   STRUG POTOKOV                                               p.i. IT
+                                                   GLINŠČICE,                                                  0102972031
+                                                   BORŠTA IN DOLINE                                            3
+
+
+Accerta l’entrata complessiva di euro 761,28 sui capitoli di seguito elencati:
+
+Eser.    EPF      CIG          Cap./Ar     Descrizione capitolo            Piano dei          Importo       Soggetto             Num.
+                               t.                                          Conti              (eu)                               Accert.
+                                                                           Finanziario
+2026     2026                  567/0       CONTRIBUTI REGIONALI            4 2 1 2       1    761,28        REGIONE              278
+                                           PER INTERVENTI DI                                                AUTONOMA
+                                           MANUTENZIONE                                                     FRIULI VENEZIA
+                                           STRAORDINARIA SUI                                                GIULIA cod.fisc.
+                                           CORSI D'ACQUA /                                                  80014930327/ p.i.
+                                           DEŽELNI PRISPEVKI ZA                                             IT 00526040324
+                                           IZREDNO VZDRŽEVANJE
+                                           VODNIH TOKOV
+
+
+Riferimento pratica finanziaria: 2026/963
+
+
+
+
+                Comune di San Dorligo della Valle - Občina Dolina – Determina n. 958 del 23/11/2026
+               COMUNE DI S. DORLIGO DELLA VALLE – OBČINA DOLINA
+                                                  (TRIESTE – TRST)
+
+
+
+
+    N.RO DETERMINA                  DATA                  PROPOSTA DA               DATA ESECUTIVITA’
+                                                    AREA LAVORI PUBBLICI,
+                                                    AMBIENTE E CULTURA -
+          958                23/11/2026            ODDELEK ZA INVESTICIJE,
+                                                                                       24/11/2026
+                                                     OKOLJE IN KULTURO
+
+
+
+OGGETTO: LAVORI DI SISTEMAZIONE E MANUTENZIONE STRAORDINARIA DEL CORSO
+D’ACQUA RIO DOLINA. SERVIZI DI VERIFICA DEGLI ELABORATI STRUTTURALI.
+DECISIONE A CONTRARRE: AFFIDAMENTO SERVIZI ALL’ING. ANDREA DE FRANCESCHI
+DI TRIESTE.
+
+
+                               CERTIFICATO DI PUBBLICAZIONE
+
+Il/La sottoscritto/a impiegato/a responsabile certifica che copia della presente determina viene
+pubblicata all’Albo Pretorio on line il 26/11/2026 e vi rimarrà per 15 (quindici) giorni consecutivi,
+fino al 11/12/2026.
+
+Dolina, 26/11/2026                                     L’IMPIEGATO/A RESPONSABILE
+                                                           F.to Dott.ssa Mojca Švab
+
+
+
+
+È copia conforme all’originale firmato digitalmente.
+
+
+
+
+        Comune di San Dorligo della Valle - Občina Dolina - Determinazione n. 958 del 23/11/2026
+

@@ -3,7 +3,7 @@
   "albo": {
    "ok": true,
    "aggiornato": "2026-11-26",
-   "voci": 12
+   "voci": 15
   },
   "rss": {
    "ok": true,
@@ -19,20 +19,77 @@
  "meteo": [
   {
    "level": "yellow",
-   "sl": "Dež",
-   "it": "Pioggia",
-   "onset": "2026-11-25T00:00:00+00:00",
-   "expires": "2026-11-26T11:59:00+00:00"
+   "sl": "Sneg in poledica",
+   "it": "Neve e ghiaccio",
+   "onset": "2026-11-26T12:00:00+00:00",
+   "expires": "2026-11-26T17:59:00+00:00"
   },
   {
    "level": "yellow",
-   "sl": "Sneg in poledica",
-   "it": "Neve e ghiaccio",
-   "onset": "2026-11-25T00:00:00+00:00",
-   "expires": "2026-11-26T11:59:00+00:00"
+   "sl": "Veter",
+   "it": "Vento",
+   "onset": "2026-11-27T20:00:00+00:00",
+   "expires": "2026-11-28T22:59:00+00:00"
   }
  ],
  "albo": [
+  {
+   "id": "albo-10112355",
+   "src": "albo",
+   "cat": "lavori",
+   "tipo_sl": "Odločba",
+   "tipo_it": "Determinazione",
+   "tipologia": "Determinazioni dirigenziali",
+   "num": "962/2026",
+   "it": "Affidamento diretto ai sensi dell’art. 50, comma 1, lett. B) del D.Lgs. n. 36 del 31 marzo 2023 dell’incarico per la redazione del progetto di messa in sicurezza d’un tratto di strada e del sottostante muro di contenimento a nord dell’immobile di San Giuseppe della Chiusa-Ricmanje n. 174 al dr.ing. borut plesnicar.",
+   "sl": "",
+   "date": "2026-11-26",
+   "until": "2026-12-11",
+   "svet": [
+    "d"
+   ],
+   "url": "https://www.comune.san-dorligo-della-valle.ts.it/it/albo-pretorio-3612",
+   "fase": "affidamento",
+   "txt": "arhiv/akti/2026/2026-11-26_determinazione_962-2026_affidamento-diretto-ai-sensi-dellart-50-comma-1-le.txt"
+  },
+  {
+   "id": "albo-10112290",
+   "src": "albo",
+   "cat": "lavori",
+   "tipo_sl": "Odločba",
+   "tipo_it": "Determinazione",
+   "tipologia": "Determinazioni dirigenziali",
+   "num": "961/2026",
+   "it": "Completamento dell’allestimento del centro di raccolta dei rifiuti del Comune di San Dorligo della Valle-Dolina, sito in località Bagnoli della Rosandra-Boljunec. Fornitura di container e compattatori scarrabili. Decisione a contrarre: affidamento della fonritura all’operatore economico locatelli eurocontainers s.p.a. di cologno al serio (bg).",
+   "sl": "",
+   "date": "2026-11-26",
+   "until": "2026-12-11",
+   "svet": [
+    "b"
+   ],
+   "url": "https://www.comune.san-dorligo-della-valle.ts.it/it/albo-pretorio-3612",
+   "fase": "affidamento",
+   "txt": "arhiv/akti/2026/2026-11-26_determinazione_961-2026_completamento-dellallestimento-del-centro-di-racco.txt"
+  },
+  {
+   "id": "albo-10112288",
+   "src": "albo",
+   "cat": "lavori",
+   "tipo_sl": "Odločba",
+   "tipo_it": "Determinazione",
+   "tipologia": "Determinazioni dirigenziali",
+   "num": "958/2026",
+   "it": "Lavori di sistemazione e manutenzione straordinaria del corso d’acqua rio Dolina. Servizi di verifica degli elaborati strutturali. Decisione a contrarre: affidamento servizi all’ing. andrea de franceschi di trieste.",
+   "sl": "",
+   "date": "2026-11-26",
+   "until": "2026-12-11",
+   "svet": [
+    "a"
+   ],
+   "url": "https://www.comune.san-dorligo-della-valle.ts.it/it/albo-pretorio-3612",
+   "fase": "affidamento",
+   "txt": "arhiv/akti/2026/2026-11-26_determinazione_958-2026_lavori-di-sistemazione-e-manutenzione-straordinari.txt"
+  },
   {
    "id": "albo-10106962",
    "src": "albo",
