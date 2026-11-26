@@ -2,18 +2,18 @@
  "stato": {
   "albo": {
    "ok": true,
-   "aggiornato": "2026-11-25",
+   "aggiornato": "2026-11-26",
    "voci": 12
   },
   "rss": {
    "ok": true,
-   "aggiornato": "2026-11-25",
+   "aggiornato": "2026-11-26",
    "voci": 21
   },
   "meteo": {
    "ok": true,
-   "aggiornato": "2026-11-25",
-   "voci": 3
+   "aggiornato": "2026-11-26",
+   "voci": 2
   }
  },
  "meteo": [
@@ -30,13 +30,6 @@
    "it": "Neve e ghiaccio",
    "onset": "2026-11-25T00:00:00+00:00",
    "expires": "2026-11-26T11:59:00+00:00"
-  },
-  {
-   "level": "yellow",
-   "sl": "Dež",
-   "it": "Pioggia",
-   "onset": "2026-11-25T18:00:00+00:00",
-   "expires": "2026-11-25T23:59:00+00:00"
   }
  ],
  "albo": [
